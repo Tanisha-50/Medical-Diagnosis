@@ -1,0 +1,1501 @@
+fever,cough,shortness_of_breath,chest_pain,fatigue,headache,nausea,vomiting,diarrhea,abdominal_pain,joint_pain,muscle_weakness,dizziness,confusion,rash,disease,severity,age,gender
+0,0,1,0,1,0,1,0,1,0,0,0,1,0,1,COVID-19,Mild,38,Male
+1,0,1,0,0,1,0,0,0,1,1,1,0,0,0,Hypertension,Severe,33,Male
+1,0,0,0,1,0,1,1,0,0,0,1,0,1,1,Hypertension,Mild,64,Male
+0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,Pneumonia,Severe,20,Male
+0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,Asthma,Severe,18,Male
+0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,Tuberculosis,Severe,30,Male
+0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,Flu,Mild,71,Female
+1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,Flu,Severe,78,Male
+1,1,1,0,1,1,0,1,0,0,0,0,0,1,0,Hypertension,Mild,49,Male
+1,1,0,1,0,1,0,0,1,0,0,0,0,1,0,Flu,Severe,29,Female
+0,1,0,0,1,1,0,0,1,0,0,1,1,0,1,COVID-19,Mild,48,Female
+1,1,0,0,1,1,0,0,0,1,0,0,1,0,0,Common Cold,Moderate,58,Male
+1,1,0,0,1,0,0,0,1,1,1,1,1,1,1,Heart Disease,Moderate,19,Male
+0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,Common Cold,Severe,58,Female
+0,0,1,0,0,1,0,1,0,0,1,1,0,1,0,Common Cold,Moderate,25,Female
+0,0,0,0,1,1,0,0,1,0,1,0,1,1,0,Common Cold,Severe,76,Female
+0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,Pneumonia,Severe,42,Male
+0,1,0,1,0,0,1,0,1,1,1,1,1,0,1,Tuberculosis,Severe,22,Female
+0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,Heart Disease,Moderate,62,Male
+0,1,1,0,0,0,1,1,0,0,1,0,0,1,1,Heart Disease,Severe,19,Female
+1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Common Cold,Moderate,59,Male
+0,1,0,0,1,0,1,1,0,0,1,1,0,1,1,Heart Disease,Moderate,75,Female
+0,0,1,1,1,0,0,1,1,0,0,1,1,0,0,Hypertension,Mild,55,Male
+0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,COVID-19,Moderate,56,Female
+0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,Tuberculosis,Mild,20,Female
+1,0,0,0,0,1,0,1,0,1,1,1,1,1,1,Flu,Severe,63,Male
+0,0,1,1,1,0,0,0,1,1,0,0,0,1,0,COVID-19,Severe,65,Male
+0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,Hypertension,Mild,55,Male
+0,1,1,0,1,1,1,1,0,0,0,0,1,1,0,Pneumonia,Severe,39,Female
+0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,Tuberculosis,Mild,57,Female
+1,0,0,0,1,0,0,1,0,1,1,1,0,1,0,Pneumonia,Mild,50,Female
+0,1,0,0,0,0,1,1,0,0,1,1,1,0,1,Diabetes,Severe,69,Female
+0,1,1,0,1,0,0,1,1,0,0,0,1,0,0,Bronchitis,Mild,49,Female
+1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,Pneumonia,Mild,64,Male
+1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,Asthma,Mild,34,Male
+1,0,0,0,0,1,1,0,0,0,1,1,1,0,0,Bronchitis,Severe,73,Female
+0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,Common Cold,Severe,35,Female
+0,1,1,1,1,0,1,0,1,1,0,0,1,1,0,Common Cold,Severe,73,Male
+1,0,0,0,0,0,1,0,0,1,1,1,1,0,1,COVID-19,Severe,20,Female
+0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,Hypertension,Severe,73,Male
+0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,Heart Disease,Moderate,23,Male
+0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,Bronchitis,Moderate,66,Male
+0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,Flu,Mild,72,Male
+1,0,0,0,0,1,0,1,0,1,1,0,0,0,1,Tuberculosis,Moderate,30,Male
+0,1,1,0,1,0,0,1,1,0,1,1,1,1,1,Diabetes,Severe,72,Female
+1,0,1,1,1,0,0,0,0,1,0,0,1,0,1,Hypertension,Severe,71,Male
+0,1,0,0,0,1,0,1,0,0,0,1,1,1,0,Hypertension,Severe,48,Female
+0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,Diabetes,Mild,34,Male
+0,0,0,1,1,1,1,0,1,1,0,0,0,1,1,Flu,Mild,38,Female
+0,1,0,1,1,1,0,0,0,0,0,0,1,1,0,Pneumonia,Mild,33,Male
+1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,Flu,Mild,34,Female
+1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,Flu,Mild,49,Female
+1,1,0,0,0,1,0,0,1,1,0,0,1,1,0,Bronchitis,Mild,18,Male
+1,1,0,1,0,0,0,0,1,0,1,1,1,0,0,Asthma,Moderate,65,Male
+0,0,1,0,1,1,0,1,1,1,0,1,0,1,0,Tuberculosis,Severe,55,Male
+1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,Hypertension,Moderate,25,Female
+0,1,1,1,0,0,1,0,1,0,0,1,1,1,1,COVID-19,Mild,18,Male
+0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,Heart Disease,Severe,19,Male
+0,1,0,1,1,0,0,0,0,0,0,1,0,1,1,Flu,Severe,64,Female
+0,1,1,1,1,1,0,1,0,0,0,1,0,0,0,Diabetes,Severe,54,Male
+0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,Flu,Moderate,41,Male
+0,0,0,0,0,1,1,1,1,0,0,1,1,0,0,Diabetes,Severe,44,Female
+1,1,0,1,0,0,1,0,0,1,0,1,1,0,0,Tuberculosis,Mild,37,Male
+0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,Common Cold,Mild,64,Female
+0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,Tuberculosis,Moderate,79,Male
+0,0,0,1,1,1,0,1,0,0,1,1,1,1,0,COVID-19,Moderate,38,Female
+0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,Asthma,Mild,59,Female
+1,0,1,0,0,0,0,0,1,0,1,1,1,1,0,Bronchitis,Moderate,54,Male
+0,1,0,0,0,1,0,1,1,1,0,1,1,0,0,Diabetes,Severe,52,Female
+1,0,1,1,0,0,0,0,0,1,1,0,1,0,1,Asthma,Moderate,55,Male
+1,0,1,0,1,0,1,1,0,0,1,0,1,0,0,Diabetes,Severe,70,Female
+0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Bronchitis,Severe,32,Female
+0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,Tuberculosis,Severe,67,Male
+1,1,0,1,0,1,0,0,1,0,0,1,1,0,0,Pneumonia,Severe,63,Male
+1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,Asthma,Severe,59,Male
+1,0,1,0,0,0,1,1,1,1,0,1,1,0,0,Diabetes,Mild,47,Female
+1,0,1,0,0,0,1,1,0,0,0,1,1,0,0,Asthma,Mild,21,Male
+0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,Asthma,Mild,60,Female
+0,1,0,1,0,1,1,0,0,1,0,0,0,0,0,Diabetes,Severe,69,Female
+0,0,1,1,0,1,0,1,1,1,0,0,1,0,0,Bronchitis,Moderate,56,Male
+1,0,1,1,0,1,0,0,0,0,1,1,0,1,1,Bronchitis,Moderate,32,Female
+1,0,1,0,1,0,0,1,1,0,0,0,0,0,1,Heart Disease,Severe,40,Male
+0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,Heart Disease,Moderate,58,Female
+0,0,0,1,0,0,1,0,0,1,0,1,1,0,1,Tuberculosis,Severe,32,Male
+0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,Hypertension,Moderate,43,Female
+0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,Asthma,Severe,29,Female
+1,1,0,0,1,0,0,0,1,1,1,0,0,1,1,Asthma,Moderate,35,Male
+1,0,0,0,0,1,1,1,0,0,0,0,0,1,1,Tuberculosis,Moderate,23,Female
+1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,COVID-19,Mild,35,Female
+0,1,0,1,0,0,1,0,0,0,0,0,0,1,1,Tuberculosis,Moderate,74,Female
+0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,Hypertension,Moderate,67,Female
+1,1,1,0,1,1,0,1,0,0,1,1,0,0,0,Tuberculosis,Severe,71,Female
+1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,COVID-19,Moderate,41,Male
+0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,Bronchitis,Moderate,55,Male
+1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,Asthma,Moderate,45,Female
+0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,Hypertension,Moderate,32,Male
+0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,Pneumonia,Moderate,36,Male
+0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,Heart Disease,Mild,22,Female
+0,0,0,0,0,1,1,0,1,0,1,1,0,1,0,Common Cold,Moderate,21,Male
+0,1,0,0,1,0,0,0,1,1,0,1,0,1,1,Tuberculosis,Severe,34,Female
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Diabetes,Severe,70,Male
+1,0,1,1,1,0,1,0,0,0,0,1,0,0,0,Bronchitis,Moderate,27,Female
+0,0,1,1,0,0,0,1,1,0,0,1,0,0,0,Asthma,Moderate,29,Female
+0,0,0,0,1,1,1,1,1,0,0,1,0,1,0,Common Cold,Moderate,22,Female
+1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,Diabetes,Mild,24,Female
+0,0,0,1,0,1,0,0,1,0,1,0,1,0,0,COVID-19,Severe,61,Male
+0,0,1,1,0,0,0,1,1,0,0,1,0,1,1,Tuberculosis,Mild,40,Male
+1,1,0,0,0,1,1,1,0,1,0,1,0,0,0,Heart Disease,Mild,19,Female
+0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,Heart Disease,Moderate,47,Male
+0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,Pneumonia,Moderate,69,Female
+0,1,1,0,1,0,1,0,0,0,1,0,0,0,1,Common Cold,Severe,66,Female
+0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,Heart Disease,Moderate,62,Male
+1,0,1,0,1,1,0,0,0,0,1,0,0,0,1,COVID-19,Severe,54,Female
+1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Common Cold,Mild,22,Female
+1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,Common Cold,Severe,37,Male
+1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,Heart Disease,Severe,43,Female
+1,1,1,1,1,0,1,1,0,0,1,0,0,1,0,Common Cold,Severe,61,Female
+0,1,0,1,1,1,1,1,1,0,1,0,1,0,1,Asthma,Mild,61,Male
+1,0,0,0,0,1,1,0,1,0,0,0,1,1,0,Pneumonia,Mild,56,Male
+0,1,0,1,1,0,1,0,1,0,0,1,1,1,1,Heart Disease,Moderate,23,Female
+1,0,0,1,0,1,1,0,0,0,0,0,1,1,0,Asthma,Moderate,46,Male
+1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,Pneumonia,Severe,27,Male
+0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,Bronchitis,Severe,68,Male
+0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,Pneumonia,Mild,33,Male
+0,0,1,1,1,0,0,1,0,0,0,0,0,0,1,Flu,Mild,51,Male
+0,1,1,1,1,1,1,1,1,0,0,0,0,0,1,Common Cold,Mild,48,Male
+1,0,1,0,0,1,0,1,0,0,1,0,1,0,0,COVID-19,Severe,53,Female
+1,0,0,0,0,0,1,0,1,0,0,1,1,1,1,Heart Disease,Severe,58,Female
+0,0,1,1,0,1,1,0,1,1,1,0,0,1,0,Bronchitis,Mild,75,Male
+0,0,1,0,0,1,1,0,0,1,0,0,1,1,1,Flu,Severe,22,Male
+0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,COVID-19,Mild,50,Male
+0,0,1,0,1,1,1,1,0,0,1,1,0,0,0,Tuberculosis,Moderate,60,Female
+0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,COVID-19,Mild,36,Female
+0,1,0,1,0,1,0,0,0,1,0,0,0,0,1,Common Cold,Severe,49,Female
+1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,Asthma,Severe,74,Female
+0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,Pneumonia,Severe,40,Male
+0,0,1,0,0,0,1,0,1,1,0,1,1,0,1,Tuberculosis,Severe,20,Male
+1,0,1,1,1,1,0,1,1,0,0,0,1,0,1,Pneumonia,Mild,18,Male
+0,1,0,1,1,0,0,1,0,1,0,0,0,0,0,Common Cold,Mild,53,Male
+1,1,0,1,1,0,1,0,1,1,1,1,1,0,0,Heart Disease,Moderate,58,Male
+1,0,0,1,0,0,0,0,1,0,1,1,0,0,1,Bronchitis,Mild,45,Female
+0,1,1,0,0,0,0,1,1,0,1,0,0,1,0,Tuberculosis,Moderate,65,Male
+0,0,0,1,0,0,1,0,1,1,1,1,1,0,0,Heart Disease,Mild,56,Female
+0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,Flu,Mild,22,Male
+0,0,0,1,1,0,1,0,0,1,1,0,0,1,1,Heart Disease,Severe,30,Male
+0,1,0,1,0,1,0,0,1,1,1,1,0,1,1,Diabetes,Moderate,28,Female
+1,0,1,1,0,0,0,1,0,1,1,1,1,0,0,Tuberculosis,Severe,63,Female
+0,1,1,0,0,0,0,1,0,1,1,0,0,1,1,Heart Disease,Severe,39,Male
+0,1,1,1,1,0,0,1,0,0,1,0,1,0,1,Asthma,Mild,66,Female
+0,1,0,0,1,0,0,1,0,1,0,0,1,0,0,Asthma,Mild,40,Female
+1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,Flu,Moderate,29,Female
+0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,Pneumonia,Moderate,70,Male
+0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,Hypertension,Mild,72,Male
+0,0,0,1,0,1,0,0,1,0,0,1,0,0,1,Heart Disease,Moderate,70,Male
+1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,Common Cold,Mild,38,Female
+0,1,1,0,0,1,0,1,0,1,1,0,0,1,0,Tuberculosis,Mild,36,Female
+1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,Heart Disease,Mild,22,Male
+1,0,0,0,1,1,1,0,0,0,1,0,0,1,1,Pneumonia,Moderate,41,Male
+0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,Heart Disease,Severe,47,Female
+1,0,0,1,1,1,0,0,0,0,0,0,1,0,0,Hypertension,Moderate,25,Male
+0,1,0,0,0,0,1,0,0,1,0,1,1,1,0,Bronchitis,Severe,19,Male
+1,0,0,1,0,1,1,0,1,0,0,0,1,0,0,Hypertension,Moderate,76,Female
+1,1,0,0,0,1,1,1,0,1,0,1,1,0,1,Common Cold,Severe,66,Female
+0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,Hypertension,Severe,51,Male
+0,1,0,1,0,0,1,0,0,0,0,0,1,1,1,Common Cold,Moderate,76,Female
+1,1,0,1,0,0,1,0,1,1,0,0,0,1,0,Pneumonia,Moderate,40,Female
+0,0,1,0,0,1,1,0,1,0,0,1,1,0,0,Tuberculosis,Severe,20,Male
+0,1,0,1,1,1,0,0,1,0,0,1,0,0,0,Hypertension,Mild,73,Female
+0,0,1,1,0,1,0,1,0,1,0,1,0,0,1,Asthma,Severe,69,Female
+0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,Flu,Severe,75,Male
+1,0,1,0,0,1,0,1,0,0,0,0,1,1,1,Hypertension,Mild,75,Female
+0,1,0,1,1,0,1,0,1,0,0,0,1,1,0,Tuberculosis,Severe,41,Female
+0,1,0,1,0,1,0,0,0,0,1,1,0,1,0,Pneumonia,Mild,79,Male
+0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,Asthma,Mild,35,Female
+1,1,0,0,0,0,0,0,1,1,1,1,1,0,1,Common Cold,Moderate,78,Male
+0,0,0,1,0,0,0,1,1,0,1,0,1,0,1,Asthma,Severe,79,Male
+1,0,1,0,0,1,0,1,0,0,0,1,0,1,0,Hypertension,Severe,64,Female
+0,0,1,1,0,1,1,1,1,1,0,0,0,0,1,Pneumonia,Mild,54,Male
+1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,Common Cold,Severe,71,Male
+0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,COVID-19,Mild,66,Female
+0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,Diabetes,Severe,48,Male
+0,1,0,0,0,0,0,1,1,1,0,1,0,0,1,Heart Disease,Severe,31,Male
+1,1,0,1,0,1,0,0,0,1,1,0,0,1,0,Bronchitis,Mild,18,Female
+1,1,0,0,1,0,1,1,0,0,0,1,0,1,0,Tuberculosis,Mild,31,Male
+0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,Tuberculosis,Severe,58,Male
+1,1,0,0,1,1,1,0,1,0,1,0,0,0,0,Tuberculosis,Severe,22,Female
+1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,COVID-19,Mild,48,Female
+0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,Pneumonia,Moderate,48,Male
+0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,Asthma,Moderate,47,Male
+0,1,1,1,0,1,1,0,0,1,0,0,1,0,1,Common Cold,Severe,53,Male
+0,0,0,0,1,0,1,1,0,0,1,1,0,0,0,Asthma,Severe,79,Female
+1,0,1,0,1,1,0,0,0,0,0,0,1,0,0,Asthma,Severe,18,Male
+1,0,1,0,1,0,1,1,1,1,0,1,0,0,0,Bronchitis,Mild,20,Female
+1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Tuberculosis,Severe,78,Male
+0,0,0,0,1,1,1,1,0,1,0,1,0,1,1,Tuberculosis,Severe,37,Male
+0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,COVID-19,Severe,60,Female
+1,0,1,0,0,0,1,1,1,1,1,1,1,1,1,Asthma,Moderate,65,Male
+1,0,1,0,1,1,1,0,0,0,1,0,1,1,1,Bronchitis,Severe,60,Female
+1,1,0,0,0,0,1,1,0,0,0,1,1,0,1,Diabetes,Severe,38,Female
+1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,COVID-19,Mild,47,Male
+1,1,0,0,1,1,1,0,0,1,1,1,1,1,0,COVID-19,Moderate,59,Male
+0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,Heart Disease,Mild,61,Female
+0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,Diabetes,Severe,47,Female
+1,0,1,0,1,0,0,1,1,0,0,0,1,1,0,Tuberculosis,Severe,22,Female
+1,0,1,0,0,0,1,0,0,0,0,1,0,1,0,Asthma,Severe,27,Male
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tuberculosis,Severe,41,Male
+0,1,1,1,0,0,0,1,1,0,1,1,0,0,1,COVID-19,Severe,62,Male
+1,0,1,0,0,1,1,0,0,0,1,1,1,0,1,Tuberculosis,Mild,78,Male
+0,1,0,1,0,0,1,1,0,1,0,1,0,0,0,Pneumonia,Severe,68,Female
+0,1,1,1,0,1,0,0,0,1,0,0,1,0,0,Hypertension,Severe,56,Female
+0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,Diabetes,Moderate,79,Female
+1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Asthma,Moderate,65,Male
+1,1,0,0,0,0,0,1,1,1,1,0,0,0,1,Diabetes,Severe,78,Male
+0,0,1,1,0,0,0,1,1,0,0,1,0,0,1,Heart Disease,Severe,23,Male
+1,0,0,0,1,0,0,1,1,0,0,1,1,0,1,Tuberculosis,Severe,27,Female
+0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,Tuberculosis,Severe,76,Female
+0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,Asthma,Severe,59,Female
+1,1,0,1,0,1,1,0,1,1,0,0,0,1,1,Asthma,Severe,75,Female
+1,1,1,0,0,0,1,0,0,0,0,0,0,1,1,Pneumonia,Mild,60,Male
+1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,Bronchitis,Mild,71,Male
+1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,Flu,Mild,27,Male
+0,0,0,0,1,1,0,0,0,1,1,0,1,0,1,Heart Disease,Moderate,42,Female
+0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,Tuberculosis,Severe,31,Female
+0,0,0,0,0,1,0,1,0,0,1,1,1,0,1,Asthma,Moderate,64,Female
+0,1,0,0,0,1,1,1,1,1,0,1,0,0,0,Asthma,Moderate,56,Female
+0,0,1,0,1,0,1,0,0,1,0,1,0,1,1,Hypertension,Moderate,30,Male
+1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,Heart Disease,Mild,28,Male
+0,1,0,1,1,0,1,0,0,1,0,0,1,0,0,Flu,Severe,56,Female
+1,1,0,1,1,1,0,0,0,0,1,1,1,1,0,Hypertension,Severe,28,Male
+1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,COVID-19,Moderate,63,Female
+1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Heart Disease,Mild,66,Female
+0,1,1,0,1,0,0,1,1,0,1,0,0,0,0,Heart Disease,Moderate,33,Female
+0,0,0,1,0,0,1,1,0,1,1,0,1,0,1,COVID-19,Moderate,50,Female
+0,0,0,1,0,1,0,1,0,1,0,1,0,0,1,Diabetes,Severe,58,Female
+0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,Common Cold,Mild,58,Male
+1,1,0,0,1,1,0,0,1,0,0,1,1,0,0,Pneumonia,Severe,77,Male
+0,0,0,0,1,1,0,1,1,1,0,0,0,0,1,Hypertension,Moderate,49,Male
+0,0,1,0,1,0,0,0,1,1,0,0,0,1,0,Common Cold,Severe,76,Male
+1,0,1,0,1,1,0,0,0,0,0,1,0,1,0,COVID-19,Moderate,27,Male
+0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,Asthma,Mild,68,Male
+1,1,0,1,1,1,0,0,0,0,1,0,0,0,1,Hypertension,Severe,32,Female
+1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,Common Cold,Severe,33,Female
+1,1,0,0,0,1,1,0,1,1,0,1,0,0,0,Flu,Severe,60,Male
+0,0,1,1,1,0,1,0,1,1,1,1,0,0,0,Pneumonia,Severe,44,Female
+0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Flu,Severe,73,Female
+1,0,0,0,1,0,1,0,0,0,0,0,1,1,1,Asthma,Mild,74,Female
+0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,Diabetes,Mild,66,Male
+1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,Heart Disease,Severe,77,Male
+1,1,1,0,1,0,0,0,0,1,1,1,0,1,0,COVID-19,Moderate,79,Male
+1,0,1,1,0,1,0,0,1,0,0,0,0,1,0,Hypertension,Moderate,68,Female
+0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,Bronchitis,Severe,62,Male
+0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,Flu,Severe,49,Male
+1,0,1,1,0,0,0,0,1,0,0,0,1,0,0,Diabetes,Mild,23,Male
+0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Hypertension,Mild,64,Female
+0,1,0,1,0,0,1,0,1,0,1,1,1,1,0,Diabetes,Severe,65,Male
+0,1,0,1,0,1,0,1,0,0,1,1,0,0,0,Heart Disease,Severe,53,Male
+1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,Diabetes,Moderate,25,Male
+1,0,0,1,1,1,0,1,0,1,0,1,0,0,0,Hypertension,Mild,42,Female
+0,0,0,0,1,1,1,0,0,0,1,0,1,1,0,Heart Disease,Severe,24,Male
+0,0,1,1,0,0,0,1,1,0,1,0,0,0,1,Pneumonia,Mild,76,Male
+1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,Common Cold,Severe,34,Female
+1,1,0,1,1,0,0,0,0,0,1,1,0,1,0,Bronchitis,Severe,65,Male
+0,0,0,1,0,0,1,1,1,0,0,0,0,1,1,Diabetes,Severe,47,Male
+0,0,0,0,1,1,1,0,0,1,0,0,1,0,1,Pneumonia,Severe,19,Male
+1,0,1,0,1,1,1,1,1,1,1,1,0,0,0,Bronchitis,Moderate,34,Male
+1,0,0,1,0,1,0,1,0,0,0,0,1,0,1,Diabetes,Severe,74,Female
+1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,Hypertension,Moderate,21,Female
+1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Diabetes,Moderate,43,Female
+0,0,1,1,0,0,0,0,1,1,0,1,0,1,1,Bronchitis,Severe,31,Male
+0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,Hypertension,Mild,25,Male
+1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,Common Cold,Mild,22,Male
+1,1,0,0,1,1,0,1,0,1,1,1,0,1,0,COVID-19,Severe,22,Male
+1,1,1,0,0,0,1,0,1,1,0,1,1,0,1,Diabetes,Severe,22,Female
+1,1,0,1,0,0,0,0,1,1,1,1,1,1,0,Asthma,Severe,44,Male
+0,1,1,0,0,0,1,0,0,1,0,0,1,1,1,COVID-19,Mild,22,Female
+0,0,1,1,1,0,0,0,0,1,0,0,1,0,0,Flu,Mild,20,Male
+1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,Hypertension,Severe,55,Male
+1,0,0,0,0,1,0,1,1,0,1,1,0,0,0,Tuberculosis,Mild,47,Female
+1,0,0,0,1,1,0,1,1,1,0,0,0,0,0,Hypertension,Moderate,18,Male
+1,1,1,0,0,0,0,0,0,1,1,0,1,1,0,Diabetes,Mild,25,Male
+1,0,0,0,1,0,0,1,0,1,1,0,1,0,0,Hypertension,Mild,30,Male
+0,1,0,0,0,0,1,0,1,0,1,0,0,1,1,Bronchitis,Severe,37,Male
+0,0,1,0,1,1,1,1,0,0,1,0,0,0,1,Common Cold,Moderate,23,Female
+0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,Heart Disease,Severe,67,Male
+0,1,0,0,0,1,1,1,0,0,0,0,1,0,0,Heart Disease,Mild,67,Female
+0,1,0,0,0,0,1,0,1,0,1,0,0,0,1,Hypertension,Moderate,65,Female
+0,1,0,1,1,0,1,0,1,1,1,0,0,0,1,Hypertension,Severe,25,Male
+0,1,1,1,0,1,1,0,0,0,1,1,1,0,0,Common Cold,Mild,47,Male
+0,0,1,0,1,0,0,1,0,1,1,1,1,1,0,Heart Disease,Moderate,66,Female
+0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,Pneumonia,Severe,57,Female
+0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Diabetes,Moderate,32,Male
+0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,COVID-19,Mild,75,Male
+1,0,0,0,1,0,0,1,1,1,1,1,0,0,0,Pneumonia,Severe,27,Female
+0,1,0,0,0,1,0,0,0,1,1,1,0,0,0,Common Cold,Mild,50,Male
+0,0,1,0,1,1,1,0,0,1,0,0,1,1,1,Hypertension,Moderate,26,Male
+0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,Diabetes,Mild,66,Female
+1,1,1,0,0,1,1,0,0,1,1,0,0,1,0,Asthma,Moderate,69,Male
+0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,Asthma,Severe,74,Female
+1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,Flu,Mild,50,Male
+0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,Flu,Severe,26,Female
+0,1,0,0,1,0,0,0,1,1,1,0,1,1,0,Diabetes,Severe,31,Female
+0,1,1,0,0,0,0,1,0,0,0,1,0,0,1,Tuberculosis,Severe,73,Female
+0,0,0,1,0,1,1,0,0,1,0,1,0,0,1,Hypertension,Severe,49,Female
+1,0,0,0,1,0,0,1,1,0,0,1,1,0,1,Bronchitis,Mild,54,Female
+1,0,0,1,0,0,1,1,1,1,1,1,0,0,0,Asthma,Mild,23,Male
+1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,Hypertension,Severe,22,Male
+0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,Hypertension,Severe,21,Female
+0,0,0,1,0,1,1,0,1,0,1,1,1,0,0,Common Cold,Moderate,77,Female
+1,0,0,0,0,0,0,1,0,0,1,1,0,1,1,Heart Disease,Severe,65,Female
+0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,Pneumonia,Moderate,33,Female
+0,1,1,0,0,0,0,1,1,1,1,1,0,0,0,Asthma,Moderate,27,Female
+0,1,1,1,0,0,0,1,1,0,1,1,1,1,1,Flu,Severe,48,Male
+0,0,1,0,1,0,1,0,0,0,0,1,0,1,1,Hypertension,Mild,48,Female
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,COVID-19,Moderate,31,Male
+1,0,0,1,0,0,0,1,1,0,0,0,1,0,1,Pneumonia,Mild,30,Female
+1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,Heart Disease,Severe,77,Female
+0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,Flu,Severe,21,Male
+0,1,0,1,0,1,0,1,0,0,0,0,1,1,0,Common Cold,Severe,63,Female
+0,1,1,1,1,1,1,0,0,1,1,0,1,0,1,Asthma,Severe,43,Female
+0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,Diabetes,Moderate,41,Male
+0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,COVID-19,Moderate,73,Male
+1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,Asthma,Mild,26,Female
+1,1,1,0,0,0,1,1,0,1,0,0,1,1,0,Bronchitis,Mild,52,Male
+0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,Heart Disease,Moderate,59,Female
+1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,Heart Disease,Severe,32,Male
+1,0,1,0,0,1,1,0,1,0,0,0,0,1,0,Asthma,Mild,41,Female
+0,0,1,1,1,1,1,0,1,0,1,0,0,0,1,Heart Disease,Moderate,48,Male
+1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,Diabetes,Mild,36,Female
+0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,Common Cold,Moderate,19,Male
+0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,Diabetes,Severe,19,Male
+0,1,1,1,0,0,1,0,1,0,0,0,1,1,0,Bronchitis,Moderate,58,Female
+1,1,1,1,1,0,1,0,1,0,1,0,0,0,0,Common Cold,Mild,53,Female
+0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,Tuberculosis,Moderate,54,Female
+0,1,0,0,0,1,1,0,1,1,1,1,0,1,1,Flu,Mild,51,Male
+0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,Asthma,Mild,74,Female
+0,1,1,0,1,0,0,1,0,1,1,0,1,0,1,Common Cold,Mild,56,Female
+1,0,1,0,0,1,1,0,0,1,0,0,1,0,1,Common Cold,Severe,36,Male
+1,0,1,0,0,1,1,1,0,1,0,1,0,0,0,Bronchitis,Severe,55,Male
+0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,Diabetes,Moderate,40,Female
+0,0,1,0,0,1,0,0,0,1,0,1,0,1,0,Bronchitis,Moderate,33,Female
+0,0,1,1,0,0,1,1,1,0,1,1,1,1,0,Diabetes,Mild,63,Male
+0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,Common Cold,Severe,61,Male
+0,0,1,0,1,0,1,1,0,0,0,1,1,1,0,Heart Disease,Moderate,23,Female
+0,1,0,0,1,0,1,0,1,0,0,1,1,1,0,Heart Disease,Moderate,75,Male
+0,1,0,0,0,1,0,0,0,0,1,1,0,1,0,Diabetes,Severe,76,Male
+1,0,1,0,0,1,1,1,1,0,1,1,1,0,1,Pneumonia,Mild,43,Female
+1,0,0,1,0,1,1,0,0,1,0,1,1,0,1,Pneumonia,Moderate,39,Female
+0,0,0,0,1,0,1,1,1,0,0,1,1,0,1,Tuberculosis,Mild,62,Female
+0,1,0,1,0,0,1,1,0,0,0,0,1,0,1,COVID-19,Severe,64,Male
+1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,Pneumonia,Severe,41,Female
+0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,Pneumonia,Moderate,63,Male
+1,1,0,0,0,1,0,0,1,0,0,0,1,0,1,Diabetes,Moderate,57,Male
+1,1,1,1,0,1,1,1,0,1,1,1,1,0,1,Hypertension,Severe,38,Male
+0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,Heart Disease,Mild,47,Male
+0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,Tuberculosis,Mild,69,Female
+1,0,0,0,1,0,1,0,0,1,1,1,1,1,0,Pneumonia,Severe,28,Male
+0,1,1,0,0,0,1,1,1,0,0,1,0,0,1,Asthma,Moderate,70,Female
+0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,Heart Disease,Severe,26,Male
+1,1,1,1,1,0,1,1,0,0,0,1,0,1,0,Bronchitis,Moderate,29,Male
+0,1,1,1,1,0,1,1,0,0,0,0,0,1,1,COVID-19,Mild,43,Female
+0,1,1,1,0,0,0,1,1,0,1,0,0,1,0,Flu,Moderate,55,Female
+1,1,0,1,0,0,1,0,0,0,0,0,1,1,0,Flu,Mild,68,Female
+0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Tuberculosis,Severe,20,Female
+0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Hypertension,Moderate,79,Female
+1,1,1,0,0,0,0,0,1,1,1,0,0,1,0,Pneumonia,Mild,50,Female
+0,1,1,1,0,1,0,1,0,1,0,1,0,1,0,Heart Disease,Moderate,32,Male
+1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,Heart Disease,Mild,64,Female
+1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,Tuberculosis,Mild,22,Male
+0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,Asthma,Severe,71,Male
+0,1,1,1,1,0,0,0,1,0,0,1,1,1,0,Bronchitis,Severe,41,Female
+0,1,0,0,1,1,1,0,0,1,0,1,1,1,0,Hypertension,Moderate,28,Male
+0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,Hypertension,Mild,74,Male
+0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,Heart Disease,Severe,72,Female
+1,1,1,0,1,1,1,0,0,1,0,1,1,0,0,Asthma,Moderate,50,Female
+0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,Asthma,Severe,40,Male
+0,0,1,1,0,0,0,0,1,0,1,1,1,0,1,Heart Disease,Moderate,27,Female
+1,0,1,1,1,1,1,0,0,0,1,0,1,0,0,Asthma,Severe,74,Female
+0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,Pneumonia,Severe,69,Male
+1,0,0,0,1,1,1,0,0,1,1,0,1,0,1,Tuberculosis,Mild,60,Female
+0,0,1,1,1,0,0,1,1,1,0,0,1,0,1,COVID-19,Mild,45,Female
+0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,Common Cold,Severe,56,Female
+1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,Asthma,Mild,74,Male
+1,1,0,1,0,0,0,0,0,1,0,1,1,1,0,Heart Disease,Severe,34,Male
+1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,Flu,Moderate,61,Female
+1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Flu,Severe,43,Female
+1,0,1,1,1,1,1,1,0,1,1,0,1,0,0,Pneumonia,Severe,42,Female
+0,0,0,0,0,0,1,0,1,1,0,1,0,1,1,Pneumonia,Moderate,53,Male
+0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Pneumonia,Moderate,29,Male
+1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,Pneumonia,Mild,73,Female
+1,1,1,1,0,0,0,0,0,1,1,0,1,1,0,Flu,Moderate,20,Female
+1,0,0,0,0,0,1,1,1,1,0,1,0,0,1,Pneumonia,Mild,67,Male
+0,0,1,0,0,0,1,0,1,1,1,0,1,0,0,Hypertension,Severe,46,Female
+0,1,1,1,1,1,0,1,1,0,0,0,0,1,1,Diabetes,Moderate,61,Female
+1,0,0,0,1,0,1,0,1,1,1,1,0,0,1,Flu,Severe,73,Male
+0,0,1,0,1,0,0,1,1,0,1,1,0,0,1,Flu,Mild,41,Female
+1,1,1,0,0,1,0,0,0,1,0,1,1,1,0,Bronchitis,Moderate,36,Female
+1,1,1,0,0,1,0,0,1,0,0,0,0,0,1,Flu,Mild,30,Male
+0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,Diabetes,Mild,33,Female
+1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,Asthma,Moderate,57,Male
+1,1,0,1,1,1,0,0,0,0,1,1,0,0,1,Flu,Moderate,44,Male
+0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,Hypertension,Mild,76,Male
+1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,Flu,Moderate,23,Female
+0,1,1,0,0,0,0,1,0,1,1,0,1,0,0,Asthma,Mild,59,Female
+1,0,0,0,1,1,0,1,0,1,0,0,0,0,0,Bronchitis,Severe,74,Female
+0,1,1,1,0,0,0,1,1,0,1,1,0,0,0,Common Cold,Severe,27,Female
+1,0,1,0,1,1,0,0,0,0,0,1,0,0,1,Tuberculosis,Moderate,78,Male
+0,1,1,1,0,0,0,0,0,1,1,0,1,0,1,Asthma,Moderate,55,Male
+0,0,1,0,0,1,0,0,0,0,0,0,1,1,1,Flu,Severe,25,Male
+1,0,0,1,0,0,0,1,1,1,0,1,0,1,1,Tuberculosis,Mild,35,Female
+0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,Pneumonia,Mild,49,Male
+0,0,0,1,0,1,0,0,1,1,1,1,0,0,1,COVID-19,Mild,34,Male
+1,1,0,0,0,0,1,1,1,0,0,1,1,0,0,Common Cold,Moderate,75,Female
+1,1,0,0,1,0,1,0,0,0,1,1,1,1,1,Asthma,Mild,59,Female
+0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,Tuberculosis,Moderate,19,Male
+1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,Diabetes,Moderate,61,Female
+0,1,0,1,0,0,0,0,0,1,1,0,1,1,0,Heart Disease,Moderate,37,Female
+0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,Diabetes,Severe,27,Female
+0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,Common Cold,Mild,26,Male
+1,0,0,1,1,0,0,1,1,1,0,1,1,1,0,Flu,Moderate,65,Male
+1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Diabetes,Mild,56,Male
+1,1,1,1,1,1,1,1,1,0,0,1,0,0,1,Asthma,Severe,58,Male
+1,0,1,1,0,1,0,0,0,0,1,0,0,0,0,Bronchitis,Mild,42,Male
+0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,COVID-19,Severe,42,Male
+0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,Diabetes,Moderate,41,Male
+0,1,1,0,0,1,1,1,1,0,1,0,0,0,0,COVID-19,Moderate,23,Male
+0,0,1,0,0,0,1,0,1,0,0,1,0,0,1,Asthma,Severe,47,Female
+0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,Pneumonia,Moderate,76,Female
+1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,Tuberculosis,Mild,27,Male
+0,1,1,1,0,1,0,0,0,1,1,0,0,1,0,Common Cold,Mild,56,Female
+0,0,0,1,0,0,1,1,1,0,0,1,0,1,0,Asthma,Severe,48,Female
+0,0,0,0,1,1,1,1,1,0,1,1,1,0,1,Hypertension,Mild,35,Male
+1,0,1,0,1,1,0,0,0,1,1,0,1,1,1,Heart Disease,Moderate,60,Male
+1,0,1,1,1,0,1,0,1,0,0,0,0,0,0,Hypertension,Moderate,50,Male
+0,1,0,0,0,0,0,1,0,1,1,0,1,1,0,Hypertension,Moderate,78,Female
+0,1,1,0,1,0,0,0,0,1,0,0,1,1,0,COVID-19,Mild,70,Female
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Diabetes,Moderate,73,Male
+0,0,0,1,0,0,1,1,0,1,1,0,0,1,0,Asthma,Mild,36,Male
+1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,Flu,Severe,40,Female
+1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,Common Cold,Moderate,22,Male
+0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,Bronchitis,Severe,77,Male
+0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,Hypertension,Mild,43,Female
+1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,Heart Disease,Mild,46,Female
+0,1,0,1,1,1,0,0,1,0,0,0,1,1,1,Diabetes,Severe,41,Male
+0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,Tuberculosis,Moderate,23,Female
+1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,Asthma,Moderate,71,Female
+1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,Pneumonia,Moderate,56,Male
+1,0,1,1,1,1,1,0,0,0,0,1,0,0,1,Heart Disease,Severe,72,Male
+1,0,1,1,0,1,1,1,1,0,0,1,0,0,0,COVID-19,Mild,21,Male
+0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,Common Cold,Severe,75,Male
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Hypertension,Mild,65,Male
+1,0,0,0,1,1,0,0,1,1,0,1,0,0,1,Flu,Moderate,77,Male
+0,0,1,0,1,0,1,1,1,1,0,0,0,1,1,Pneumonia,Moderate,59,Male
+0,0,1,0,0,1,0,0,0,1,1,1,1,1,0,Bronchitis,Mild,43,Female
+1,1,0,1,0,0,0,0,1,1,0,1,0,1,1,Hypertension,Moderate,32,Male
+0,1,1,0,1,1,1,1,0,1,0,1,1,0,1,Flu,Severe,30,Female
+0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,COVID-19,Mild,57,Male
+0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,COVID-19,Moderate,39,Male
+0,0,1,1,0,1,1,1,0,0,0,0,1,1,1,Diabetes,Moderate,76,Male
+0,1,1,0,0,0,1,0,0,1,1,1,0,0,1,Tuberculosis,Moderate,30,Male
+0,1,1,1,0,0,0,1,0,0,0,1,0,0,1,Bronchitis,Moderate,73,Male
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,Tuberculosis,Mild,56,Male
+1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,Pneumonia,Mild,34,Female
+1,1,1,0,1,0,1,0,1,1,0,1,1,1,1,Diabetes,Moderate,53,Male
+0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,COVID-19,Severe,56,Male
+1,0,0,0,1,0,1,1,0,1,1,1,0,0,0,COVID-19,Severe,65,Male
+0,0,1,0,0,0,1,0,0,1,1,1,1,0,1,Hypertension,Severe,42,Female
+0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,Asthma,Severe,51,Female
+1,0,1,1,0,0,1,0,0,1,1,0,0,0,0,Heart Disease,Mild,38,Male
+0,0,1,1,1,0,0,1,0,1,1,1,0,1,1,COVID-19,Mild,42,Male
+1,0,0,0,1,1,0,0,1,0,1,0,0,1,0,Common Cold,Severe,42,Male
+0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,Heart Disease,Mild,39,Male
+1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,Hypertension,Severe,40,Male
+0,0,1,0,1,0,1,0,0,1,1,1,0,0,1,Common Cold,Moderate,42,Female
+1,0,1,1,1,1,0,1,0,1,0,1,0,1,1,Heart Disease,Moderate,31,Male
+0,0,1,0,1,0,1,1,1,1,0,0,1,1,0,Tuberculosis,Severe,31,Female
+1,1,1,0,1,0,1,0,0,0,0,1,0,1,0,Heart Disease,Mild,43,Female
+0,0,1,0,0,1,1,1,0,0,1,0,0,0,0,Diabetes,Severe,57,Male
+0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,COVID-19,Mild,47,Female
+1,1,0,0,0,1,0,0,0,0,1,0,1,0,0,Diabetes,Moderate,43,Male
+0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,Asthma,Mild,55,Female
+1,0,0,1,0,0,0,1,1,0,1,1,0,1,0,Tuberculosis,Severe,39,Male
+1,1,0,0,0,0,0,0,1,1,0,0,1,0,0,Pneumonia,Moderate,56,Male
+0,0,0,1,1,1,1,1,0,0,1,1,1,1,0,Hypertension,Moderate,56,Male
+1,0,1,1,0,0,1,0,0,0,1,1,1,0,1,COVID-19,Mild,51,Male
+0,0,0,0,0,0,1,0,1,1,1,0,0,0,1,Pneumonia,Moderate,42,Female
+1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,Pneumonia,Moderate,53,Female
+0,1,0,1,1,1,0,0,0,0,1,0,0,0,1,Hypertension,Mild,30,Female
+0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Pneumonia,Moderate,46,Male
+1,0,0,1,0,1,0,1,0,0,0,1,1,0,1,Flu,Severe,59,Male
+1,1,0,1,1,1,0,1,1,0,1,1,0,1,0,Diabetes,Mild,26,Female
+0,1,0,1,1,1,0,1,1,0,0,0,1,0,1,Bronchitis,Mild,32,Male
+1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,Bronchitis,Mild,48,Male
+0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,Asthma,Mild,61,Female
+0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,COVID-19,Severe,44,Male
+0,1,1,0,1,0,1,1,0,1,0,0,0,1,1,Asthma,Mild,48,Female
+0,1,0,1,0,0,0,0,1,0,1,0,1,1,1,COVID-19,Severe,27,Male
+0,1,1,0,0,0,0,1,1,1,0,0,1,0,0,Bronchitis,Mild,68,Male
+0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,Common Cold,Mild,70,Female
+1,0,0,1,0,1,1,0,1,0,0,1,0,0,0,Asthma,Moderate,54,Female
+1,0,1,0,1,0,0,0,1,1,1,0,0,0,1,Diabetes,Moderate,24,Female
+1,0,0,0,0,1,0,0,1,0,1,1,1,1,0,Diabetes,Severe,77,Female
+0,0,1,0,0,1,1,0,0,0,1,1,0,0,0,Flu,Moderate,49,Female
+0,1,1,1,0,0,0,0,0,1,0,1,1,0,1,Bronchitis,Mild,69,Male
+1,0,0,0,0,1,1,0,1,0,1,0,0,1,0,Asthma,Severe,28,Female
+1,0,1,1,0,0,0,0,0,1,1,1,1,0,1,Diabetes,Moderate,65,Male
+0,1,1,0,1,0,0,1,1,1,1,1,1,1,0,Bronchitis,Mild,62,Male
+1,0,1,1,1,1,0,1,1,0,1,0,0,1,1,Diabetes,Moderate,45,Female
+1,1,0,1,1,0,1,1,1,0,0,0,0,0,1,COVID-19,Moderate,21,Female
+1,0,1,0,1,1,0,1,0,0,0,1,0,1,1,Hypertension,Moderate,65,Male
+1,0,0,0,1,0,0,0,1,1,0,1,0,0,0,Tuberculosis,Moderate,62,Female
+1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,Common Cold,Mild,48,Female
+0,0,0,1,1,0,0,1,1,1,1,1,0,0,1,Bronchitis,Moderate,46,Male
+1,1,1,0,1,1,0,1,0,0,1,1,1,0,0,Flu,Severe,50,Male
+1,0,1,1,1,0,1,0,0,1,1,0,1,0,0,Asthma,Severe,71,Female
+0,0,1,0,0,1,1,1,1,0,0,0,1,0,1,Flu,Moderate,21,Male
+0,0,1,0,0,1,0,1,0,0,0,1,0,1,0,Common Cold,Severe,76,Male
+0,0,0,0,1,0,0,1,0,1,0,0,1,1,0,Common Cold,Moderate,64,Male
+1,1,0,0,1,1,1,1,1,0,0,0,0,1,0,Common Cold,Mild,75,Male
+1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,Common Cold,Mild,43,Male
+0,1,0,1,0,1,0,1,1,0,1,1,0,0,1,Diabetes,Severe,70,Male
+0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,Heart Disease,Severe,79,Male
+0,0,0,0,0,1,1,0,1,0,1,0,0,0,1,Asthma,Moderate,48,Male
+1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,Asthma,Moderate,48,Male
+1,0,0,1,0,0,1,0,0,0,1,0,1,1,0,Tuberculosis,Moderate,44,Male
+1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Hypertension,Mild,42,Female
+0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,COVID-19,Moderate,65,Female
+0,1,1,0,0,1,1,0,0,1,1,1,0,0,1,Tuberculosis,Mild,53,Female
+0,1,1,0,1,0,0,0,0,0,1,1,0,0,1,COVID-19,Severe,66,Male
+0,0,1,1,0,0,1,1,1,0,0,1,0,0,0,Heart Disease,Mild,48,Male
+1,1,0,0,1,1,1,0,0,0,0,0,1,0,1,Bronchitis,Severe,60,Male
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Common Cold,Mild,74,Male
+1,0,1,0,1,1,1,0,1,1,1,0,0,0,0,Heart Disease,Mild,54,Male
+1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,Heart Disease,Moderate,75,Female
+0,1,0,1,0,0,1,1,0,0,0,1,0,0,1,Heart Disease,Severe,62,Male
+1,1,0,0,0,1,0,1,0,0,0,0,1,0,0,Heart Disease,Mild,61,Female
+1,0,0,0,0,0,0,1,0,1,1,1,0,1,1,Heart Disease,Mild,78,Female
+1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,Flu,Severe,76,Female
+0,0,0,1,1,1,1,0,1,0,1,0,1,0,0,COVID-19,Mild,40,Male
+0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,Flu,Severe,52,Female
+0,0,0,1,1,1,0,1,0,0,0,0,1,0,1,Heart Disease,Severe,21,Male
+1,1,0,1,0,1,0,0,0,0,0,0,1,0,1,Common Cold,Severe,45,Male
+1,0,1,0,1,0,0,1,0,0,0,0,1,1,0,Pneumonia,Mild,59,Female
+0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,Asthma,Mild,58,Female
+1,0,0,1,0,1,0,1,0,0,1,1,1,0,0,COVID-19,Moderate,59,Female
+1,1,1,1,0,0,0,0,0,0,1,0,0,0,1,Common Cold,Severe,30,Male
+0,1,0,1,0,0,0,1,0,0,1,0,1,1,1,Asthma,Mild,18,Male
+0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,Heart Disease,Mild,29,Female
+1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,Flu,Severe,60,Male
+0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,Flu,Severe,70,Male
+1,0,0,0,0,0,1,0,1,0,1,0,0,1,1,Pneumonia,Severe,57,Male
+0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,Hypertension,Moderate,43,Female
+1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,Heart Disease,Moderate,72,Female
+0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,Common Cold,Moderate,63,Female
+0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,Tuberculosis,Severe,63,Male
+1,1,0,0,1,1,1,1,1,0,0,0,0,1,0,Diabetes,Mild,69,Female
+0,1,1,1,1,0,1,0,0,1,1,0,1,1,0,Tuberculosis,Severe,40,Male
+0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,Flu,Mild,66,Male
+0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,Tuberculosis,Moderate,39,Male
+1,1,0,0,1,0,1,0,1,0,1,1,1,1,1,COVID-19,Moderate,74,Male
+1,0,0,0,1,0,0,1,0,1,1,0,1,1,0,Flu,Moderate,68,Female
+1,0,0,1,0,1,1,1,1,1,0,0,1,0,1,Heart Disease,Mild,69,Female
+0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,Heart Disease,Mild,73,Male
+0,1,0,0,0,1,1,1,1,0,1,1,0,1,0,COVID-19,Severe,45,Female
+0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,Diabetes,Severe,70,Female
+0,0,0,1,0,1,0,0,0,1,0,1,0,1,0,Asthma,Severe,70,Female
+0,1,1,0,0,0,0,0,1,1,0,0,1,0,1,COVID-19,Moderate,34,Female
+0,0,0,0,1,0,1,0,1,1,0,0,1,0,1,Asthma,Severe,23,Female
+0,0,1,0,0,0,1,0,0,0,0,1,1,1,0,Bronchitis,Moderate,31,Female
+1,0,1,1,0,0,0,0,0,1,0,1,1,0,0,Flu,Mild,67,Female
+0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,Pneumonia,Moderate,34,Female
+0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,Diabetes,Moderate,55,Female
+1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,Hypertension,Moderate,22,Female
+0,0,1,0,0,1,0,0,0,0,1,1,0,0,1,Diabetes,Mild,30,Female
+1,1,1,0,1,1,0,0,0,1,0,0,1,1,0,Asthma,Mild,65,Male
+1,1,1,1,0,1,0,0,0,0,0,0,0,1,1,Bronchitis,Severe,70,Male
+1,1,0,0,1,0,0,0,0,1,0,0,1,0,1,Asthma,Severe,26,Female
+0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,Flu,Severe,61,Female
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,Asthma,Mild,59,Female
+0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,Common Cold,Mild,43,Female
+0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,Heart Disease,Mild,30,Male
+0,0,0,0,1,0,0,1,1,0,1,0,0,1,1,Hypertension,Mild,36,Male
+1,0,1,0,1,0,0,0,1,1,0,1,1,0,1,Bronchitis,Mild,65,Female
+0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,Common Cold,Moderate,34,Male
+0,1,1,0,0,0,0,1,1,0,0,1,1,1,0,Asthma,Severe,33,Female
+1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,Hypertension,Moderate,47,Male
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Diabetes,Severe,49,Female
+0,0,0,1,0,1,0,1,0,1,0,1,1,0,1,Tuberculosis,Moderate,31,Male
+0,1,1,0,0,1,0,0,1,0,0,0,1,0,1,Common Cold,Mild,65,Male
+0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,Tuberculosis,Severe,73,Male
+0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,COVID-19,Moderate,32,Female
+0,1,1,0,0,1,0,1,1,1,1,0,0,1,1,Tuberculosis,Severe,29,Male
+1,1,0,0,0,0,0,1,1,0,1,1,0,1,0,Common Cold,Mild,54,Female
+0,0,0,1,0,0,1,0,0,0,1,1,0,1,1,Pneumonia,Mild,28,Male
+0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,Flu,Severe,22,Male
+1,0,0,0,1,0,0,0,0,1,0,1,1,1,1,COVID-19,Severe,73,Female
+0,1,1,0,0,1,0,0,0,1,0,1,1,0,1,Tuberculosis,Mild,73,Female
+1,0,0,1,0,0,0,1,1,0,0,1,0,0,1,Asthma,Mild,28,Female
+0,1,0,0,0,0,0,1,0,1,1,0,0,0,1,Common Cold,Mild,51,Male
+0,1,0,0,1,0,0,1,0,1,1,0,1,1,1,Bronchitis,Moderate,36,Female
+0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,Asthma,Severe,43,Female
+0,1,0,0,0,1,0,0,0,1,0,1,0,1,1,Diabetes,Mild,43,Female
+0,0,0,0,0,1,1,1,0,1,1,1,0,0,1,Asthma,Severe,34,Male
+0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,Common Cold,Moderate,48,Female
+0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,Pneumonia,Moderate,36,Female
+0,1,0,0,0,1,1,1,1,1,0,0,0,1,0,Diabetes,Mild,61,Male
+0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,Flu,Severe,37,Female
+0,1,1,0,0,0,1,1,1,0,1,1,1,1,0,Tuberculosis,Moderate,76,Male
+0,1,0,0,0,0,0,0,1,0,1,1,0,1,1,COVID-19,Severe,40,Female
+0,0,1,1,1,1,0,0,1,1,1,1,1,1,0,Diabetes,Severe,42,Female
+1,1,1,1,0,1,1,1,1,0,0,1,0,0,0,Tuberculosis,Mild,45,Female
+0,0,0,1,1,0,1,1,0,1,0,1,1,1,1,Bronchitis,Moderate,54,Female
+1,0,0,1,1,0,0,0,0,1,1,1,0,1,1,Diabetes,Moderate,29,Male
+1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,Diabetes,Moderate,65,Male
+0,1,1,1,0,1,0,0,0,0,0,1,0,1,1,COVID-19,Severe,18,Male
+1,1,0,0,0,0,1,0,1,0,1,1,1,0,1,Tuberculosis,Moderate,19,Male
+1,0,0,1,1,0,1,1,1,0,0,0,1,0,0,Flu,Moderate,27,Male
+0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,COVID-19,Severe,51,Male
+0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,Tuberculosis,Moderate,49,Female
+1,0,1,1,0,0,1,1,0,1,1,0,0,0,0,Flu,Moderate,42,Female
+1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Bronchitis,Severe,27,Female
+0,1,1,0,0,0,0,1,1,1,0,0,1,1,0,Pneumonia,Moderate,72,Male
+0,0,0,1,0,1,0,0,1,0,1,0,1,1,0,COVID-19,Mild,67,Female
+0,1,0,0,0,0,0,0,1,1,1,0,0,1,1,Tuberculosis,Severe,18,Male
+0,0,1,0,0,1,1,1,0,0,1,1,0,0,0,Flu,Moderate,49,Male
+1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,Flu,Mild,54,Female
+0,1,0,1,0,0,0,1,0,1,0,0,1,0,0,Diabetes,Severe,29,Female
+0,1,0,0,1,0,0,1,0,1,1,0,0,1,1,Diabetes,Moderate,66,Male
+1,0,1,0,1,1,1,0,1,0,1,0,0,0,1,Tuberculosis,Severe,74,Male
+0,1,1,0,0,1,0,0,0,1,1,0,1,0,0,Asthma,Mild,68,Male
+0,0,1,1,1,0,0,1,1,0,0,1,1,1,1,Bronchitis,Severe,35,Female
+1,0,1,0,0,1,0,1,0,0,0,1,1,0,1,Common Cold,Moderate,47,Male
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,Common Cold,Mild,30,Male
+0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,Flu,Severe,71,Female
+0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,Flu,Moderate,20,Male
+0,1,0,1,1,1,0,0,1,1,0,1,0,0,0,Pneumonia,Moderate,38,Female
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Heart Disease,Mild,59,Male
+0,0,1,1,1,0,1,0,1,0,0,0,1,0,0,Flu,Mild,31,Female
+0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,Asthma,Severe,57,Male
+0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,Bronchitis,Moderate,27,Female
+0,1,0,1,0,0,0,1,1,0,1,1,1,0,0,Common Cold,Mild,19,Male
+0,1,0,0,1,0,0,1,0,0,0,1,1,1,1,Bronchitis,Moderate,77,Male
+0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,COVID-19,Severe,62,Female
+0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,Flu,Mild,54,Female
+0,0,0,1,1,0,0,1,1,0,0,1,0,1,0,Asthma,Severe,28,Male
+0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,Tuberculosis,Severe,73,Male
+1,1,0,1,0,0,1,1,0,1,1,1,0,1,1,Diabetes,Mild,18,Male
+0,0,0,1,1,0,1,0,0,1,1,1,0,1,1,Flu,Severe,43,Male
+1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,Flu,Moderate,59,Male
+1,0,0,1,1,0,0,1,1,0,0,0,0,0,1,Asthma,Mild,79,Male
+0,1,1,0,1,0,0,1,1,0,0,0,1,1,1,Heart Disease,Moderate,76,Male
+0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Bronchitis,Severe,78,Female
+0,0,0,0,1,1,0,1,0,1,0,0,0,0,1,Asthma,Mild,77,Male
+0,1,1,1,0,0,0,0,0,0,1,1,1,0,1,Hypertension,Moderate,30,Female
+1,1,0,1,0,1,0,0,0,0,0,1,1,1,0,Hypertension,Moderate,45,Male
+0,0,0,1,0,1,0,1,0,1,1,1,1,0,1,Hypertension,Moderate,53,Male
+0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Heart Disease,Moderate,38,Female
+0,0,0,0,0,1,1,1,1,1,0,1,1,0,0,Asthma,Moderate,79,Male
+0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,Pneumonia,Severe,27,Female
+1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,Flu,Severe,29,Male
+0,1,1,0,0,1,1,1,1,0,0,0,1,0,1,Flu,Severe,63,Male
+0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,Hypertension,Severe,44,Male
+1,1,0,0,0,0,0,0,1,0,0,1,1,1,0,Diabetes,Severe,20,Male
+1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,Asthma,Severe,45,Female
+0,1,0,0,1,0,0,1,1,0,0,1,0,1,1,Asthma,Severe,19,Female
+0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Tuberculosis,Moderate,45,Female
+0,1,0,1,1,0,1,0,0,0,1,1,0,0,1,Common Cold,Severe,68,Male
+0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,Pneumonia,Moderate,48,Female
+0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,Diabetes,Mild,60,Male
+0,1,0,0,0,0,1,0,0,0,1,1,1,0,0,Heart Disease,Severe,38,Female
+0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,COVID-19,Moderate,24,Male
+0,1,0,0,0,1,0,1,0,1,1,0,0,1,0,Heart Disease,Mild,67,Female
+1,0,0,0,1,1,1,1,0,0,1,0,1,0,1,Heart Disease,Mild,78,Female
+0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,Common Cold,Moderate,48,Female
+0,1,0,0,0,0,0,1,0,1,1,0,1,0,0,Heart Disease,Moderate,31,Female
+0,0,1,0,0,1,0,1,0,1,1,0,0,0,0,Common Cold,Moderate,56,Male
+1,1,0,1,1,0,0,0,1,1,1,1,0,0,1,Tuberculosis,Severe,71,Female
+0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,Common Cold,Mild,79,Female
+0,1,0,0,0,1,0,1,1,0,0,0,1,0,0,Heart Disease,Severe,56,Female
+1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,Bronchitis,Severe,72,Female
+1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,Tuberculosis,Severe,26,Male
+1,0,1,0,1,0,0,1,1,0,1,1,0,1,1,Flu,Mild,40,Male
+0,0,0,1,0,0,0,1,1,0,0,1,1,1,1,Heart Disease,Mild,79,Male
+0,0,1,0,1,0,0,1,0,1,0,0,1,1,1,Common Cold,Mild,29,Female
+1,0,0,1,0,1,1,0,0,0,1,0,0,1,0,COVID-19,Moderate,46,Female
+1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,Heart Disease,Severe,55,Male
+0,1,0,1,0,0,0,1,1,0,1,0,0,0,0,Tuberculosis,Moderate,75,Male
+0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,Common Cold,Moderate,73,Male
+0,1,0,0,0,1,0,1,0,1,0,1,0,0,1,Diabetes,Severe,56,Male
+1,1,0,1,0,0,0,0,1,0,0,0,0,1,1,Asthma,Mild,39,Male
+0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,Heart Disease,Severe,21,Female
+0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,Flu,Moderate,65,Female
+0,1,0,1,0,0,0,0,1,0,1,1,1,1,1,Hypertension,Mild,24,Male
+0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,Diabetes,Mild,77,Female
+0,0,0,1,1,0,1,1,1,1,0,0,0,1,0,Diabetes,Moderate,57,Female
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Pneumonia,Mild,25,Male
+1,0,0,1,1,0,0,0,1,0,0,0,0,1,1,Asthma,Mild,77,Male
+0,0,1,1,1,1,0,1,0,0,1,0,1,0,0,Heart Disease,Severe,77,Male
+0,1,1,0,0,0,1,0,1,1,1,0,0,0,1,Diabetes,Severe,69,Male
+0,0,1,0,1,0,0,0,1,1,1,0,0,1,0,Pneumonia,Moderate,75,Female
+0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,Asthma,Moderate,74,Female
+0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,Asthma,Moderate,52,Female
+0,0,1,1,1,0,0,0,0,1,0,1,1,0,1,Tuberculosis,Mild,26,Female
+0,0,0,1,0,1,1,1,1,1,0,0,0,0,1,Heart Disease,Moderate,68,Male
+0,0,1,1,0,0,1,1,1,1,0,0,1,0,0,Flu,Severe,30,Female
+0,1,1,1,0,1,0,1,0,1,0,0,0,1,1,Diabetes,Mild,56,Male
+1,1,1,0,1,0,0,1,1,1,0,0,0,0,1,Diabetes,Moderate,37,Female
+0,0,1,1,1,0,0,1,0,0,0,0,0,1,1,COVID-19,Mild,38,Female
+1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,Common Cold,Mild,78,Male
+0,0,0,1,1,0,0,0,0,1,0,1,1,0,0,COVID-19,Mild,64,Male
+1,1,1,0,1,0,0,0,0,0,0,1,0,0,1,Diabetes,Moderate,36,Male
+1,1,0,1,0,0,0,0,0,0,0,1,1,0,1,Heart Disease,Mild,19,Female
+0,1,1,0,0,1,1,1,0,1,1,0,1,0,0,COVID-19,Mild,61,Male
+0,0,1,0,1,0,0,1,1,0,0,1,1,0,1,Flu,Mild,57,Female
+0,1,1,1,1,0,0,0,0,1,1,0,1,0,0,Flu,Severe,47,Female
+0,1,1,0,1,0,0,1,0,0,0,1,0,1,1,Bronchitis,Moderate,40,Male
+1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,Bronchitis,Severe,72,Female
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Bronchitis,Mild,57,Male
+1,0,0,1,0,0,0,1,1,0,1,1,0,0,0,Asthma,Mild,30,Male
+0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,Heart Disease,Severe,50,Female
+1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,COVID-19,Mild,49,Female
+1,1,0,0,1,1,1,0,0,1,0,0,1,0,0,Asthma,Severe,45,Female
+0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,COVID-19,Mild,41,Male
+0,0,1,0,1,0,1,1,1,0,1,1,1,1,0,Heart Disease,Mild,59,Male
+1,0,0,0,0,1,1,1,1,0,0,0,1,1,1,Pneumonia,Mild,45,Male
+0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,Hypertension,Mild,47,Female
+1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,Tuberculosis,Moderate,79,Male
+0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,Bronchitis,Moderate,70,Female
+1,0,0,1,0,0,0,1,1,0,1,1,0,0,1,Heart Disease,Moderate,73,Male
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Tuberculosis,Severe,58,Male
+0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Hypertension,Severe,46,Female
+0,1,0,1,0,0,0,1,0,0,1,0,1,1,1,Pneumonia,Severe,51,Female
+1,0,1,0,0,0,1,1,0,1,1,1,1,0,1,Flu,Severe,68,Female
+1,1,0,1,1,1,0,0,1,0,1,1,1,1,0,Diabetes,Moderate,39,Male
+0,1,0,0,0,0,1,1,0,1,0,1,1,1,1,Tuberculosis,Severe,42,Female
+0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,Hypertension,Severe,31,Female
+1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,Asthma,Severe,27,Female
+0,1,1,1,1,1,1,0,0,1,0,0,0,0,0,Heart Disease,Mild,27,Female
+1,0,1,1,0,1,0,1,0,0,1,0,0,1,1,Heart Disease,Severe,25,Male
+0,0,1,0,0,1,0,0,1,0,0,1,1,1,0,Flu,Mild,31,Male
+0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,Diabetes,Severe,62,Female
+0,1,1,1,0,1,0,0,1,1,0,0,0,0,0,Bronchitis,Severe,55,Female
+0,0,1,0,0,1,0,1,0,1,1,0,0,1,0,COVID-19,Mild,49,Male
+1,0,1,0,0,0,1,0,0,1,1,0,1,1,0,Tuberculosis,Severe,70,Female
+0,1,0,1,1,0,1,0,0,0,1,0,1,1,0,Asthma,Mild,79,Female
+0,1,0,1,0,0,0,0,1,1,0,0,0,1,0,Heart Disease,Severe,62,Female
+1,0,0,0,1,1,1,1,0,0,1,1,1,0,1,Common Cold,Severe,49,Male
+0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,COVID-19,Mild,20,Male
+0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,Asthma,Moderate,77,Male
+1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,Flu,Mild,37,Female
+1,0,1,0,0,1,1,1,0,1,0,1,1,0,0,COVID-19,Moderate,78,Female
+0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,Heart Disease,Mild,30,Female
+1,1,1,1,0,1,0,1,0,1,1,0,0,0,0,Tuberculosis,Moderate,72,Male
+1,1,0,1,0,0,0,1,0,0,0,0,0,1,1,Heart Disease,Severe,40,Male
+0,1,1,0,0,1,1,1,0,1,0,0,0,0,0,Bronchitis,Moderate,36,Female
+0,1,0,1,0,0,0,0,1,1,1,0,1,0,0,Bronchitis,Severe,33,Female
+1,0,0,0,0,1,0,1,1,1,1,1,0,1,0,Hypertension,Mild,53,Female
+1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,Asthma,Moderate,52,Female
+0,0,0,0,0,1,1,0,1,1,0,1,0,1,1,Bronchitis,Severe,64,Female
+1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,Hypertension,Mild,64,Male
+1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,Tuberculosis,Moderate,67,Male
+0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,Flu,Severe,71,Male
+0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,Asthma,Moderate,24,Male
+0,1,0,0,0,1,1,1,0,0,0,1,0,0,0,Tuberculosis,Moderate,69,Female
+1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,COVID-19,Severe,54,Male
+0,1,0,1,1,1,1,1,1,1,0,1,1,0,0,Hypertension,Severe,25,Male
+0,1,0,0,1,0,0,1,0,0,0,0,1,0,1,Hypertension,Mild,42,Female
+1,0,0,0,1,1,1,1,1,1,1,0,1,0,1,Asthma,Severe,40,Male
+1,1,0,0,0,0,1,0,1,0,1,0,0,0,1,Bronchitis,Severe,27,Female
+0,0,0,1,1,1,1,1,0,1,0,0,1,0,0,COVID-19,Moderate,47,Male
+1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,COVID-19,Severe,50,Female
+0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,Hypertension,Moderate,28,Female
+1,0,1,0,1,0,0,0,1,0,0,1,1,1,1,Common Cold,Moderate,79,Female
+0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,Hypertension,Severe,52,Male
+0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,Bronchitis,Severe,44,Male
+1,1,1,0,0,0,1,0,0,0,1,0,0,1,0,Bronchitis,Severe,70,Female
+0,1,1,0,0,1,0,0,0,0,1,0,1,0,0,Bronchitis,Severe,20,Male
+0,1,1,0,1,0,0,0,0,0,1,0,0,0,1,COVID-19,Mild,64,Female
+1,0,0,0,0,0,1,1,1,0,1,1,1,0,0,Flu,Moderate,66,Female
+1,1,1,1,1,0,0,1,1,1,0,0,1,1,0,Pneumonia,Mild,67,Female
+1,0,1,0,0,0,1,1,0,0,1,0,1,0,0,Heart Disease,Mild,25,Female
+1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,Diabetes,Moderate,72,Female
+0,0,0,0,0,1,0,0,1,1,1,0,0,1,1,Common Cold,Mild,30,Female
+0,0,0,0,0,1,1,1,0,1,0,0,0,1,1,Hypertension,Severe,59,Female
+0,0,1,1,0,0,1,0,0,1,0,1,1,0,1,Asthma,Severe,20,Male
+0,0,1,0,1,0,0,1,0,0,1,0,1,0,1,Diabetes,Severe,37,Male
+1,0,0,1,1,1,1,0,1,1,0,0,1,1,0,Diabetes,Severe,63,Male
+0,1,0,1,1,0,0,1,0,0,0,1,0,1,0,Flu,Moderate,62,Male
+0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,Common Cold,Severe,52,Male
+0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,Bronchitis,Moderate,30,Male
+1,0,1,1,0,0,0,1,0,0,1,0,0,1,0,Asthma,Moderate,37,Female
+0,1,0,0,1,1,0,0,0,1,1,0,0,1,1,Bronchitis,Moderate,41,Male
+0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,Pneumonia,Moderate,74,Female
+0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Common Cold,Mild,72,Male
+1,0,1,0,0,0,0,1,1,0,1,1,1,1,1,Diabetes,Mild,26,Female
+0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,Asthma,Severe,47,Male
+1,0,1,0,0,1,0,0,1,1,0,1,0,0,0,Bronchitis,Moderate,42,Male
+1,0,0,0,1,1,1,0,1,1,0,1,1,1,0,Diabetes,Severe,33,Male
+0,0,0,1,0,1,1,0,0,0,1,1,1,0,1,Asthma,Severe,72,Male
+1,0,0,0,0,0,0,1,1,0,0,1,1,1,1,Tuberculosis,Severe,72,Male
+1,0,0,0,0,1,1,0,0,1,0,1,1,0,0,COVID-19,Severe,25,Female
+1,1,0,1,0,1,1,0,0,0,0,0,0,1,0,Diabetes,Moderate,61,Female
+0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,Bronchitis,Moderate,75,Male
+0,0,1,1,0,1,0,0,1,0,0,0,0,1,0,Common Cold,Mild,45,Female
+1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,Tuberculosis,Moderate,29,Female
+0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,Heart Disease,Moderate,68,Female
+1,0,1,0,1,0,1,0,1,1,0,0,1,1,0,Flu,Severe,41,Female
+1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,Hypertension,Moderate,66,Male
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,COVID-19,Severe,46,Male
+0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,Heart Disease,Moderate,32,Female
+0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,Asthma,Mild,71,Male
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Common Cold,Severe,35,Male
+1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,Hypertension,Moderate,24,Male
+0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,Asthma,Moderate,30,Male
+1,1,1,1,1,1,1,1,0,0,1,0,0,1,0,COVID-19,Severe,36,Female
+1,1,0,0,0,0,1,1,0,1,0,0,0,0,1,Bronchitis,Mild,65,Female
+0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,Asthma,Mild,60,Female
+0,0,0,0,0,1,0,1,1,0,1,0,0,1,0,Diabetes,Moderate,75,Male
+0,0,1,1,1,1,0,0,1,0,1,1,0,1,0,Asthma,Moderate,22,Female
+0,0,1,0,1,1,0,0,0,1,0,1,0,0,1,Common Cold,Moderate,43,Female
+0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,Pneumonia,Severe,19,Female
+1,1,0,0,0,0,1,1,0,0,0,0,1,1,0,Pneumonia,Severe,50,Female
+0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,Tuberculosis,Severe,65,Male
+0,1,1,0,1,0,1,0,0,1,1,1,0,0,0,Flu,Moderate,54,Female
+0,0,0,1,1,0,0,0,1,0,0,0,1,1,0,COVID-19,Mild,42,Male
+0,1,0,0,0,0,0,1,1,1,0,0,1,0,0,Common Cold,Severe,42,Male
+1,1,0,0,1,1,1,0,0,1,0,1,1,0,0,Asthma,Mild,56,Female
+0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,Flu,Moderate,47,Male
+0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,Hypertension,Severe,58,Male
+1,1,1,0,1,1,1,1,0,0,0,1,1,0,1,Heart Disease,Severe,21,Female
+0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,COVID-19,Severe,36,Female
+0,0,0,0,1,1,0,1,0,0,1,1,1,0,0,Asthma,Moderate,44,Female
+0,0,1,0,0,1,1,0,0,0,0,1,0,1,0,Flu,Moderate,69,Female
+0,1,1,0,0,1,0,1,0,0,0,0,0,1,0,Pneumonia,Moderate,64,Female
+0,1,0,0,1,0,1,1,0,0,0,1,1,0,1,Pneumonia,Mild,56,Male
+0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,Common Cold,Mild,41,Female
+0,0,0,1,0,0,0,0,1,1,0,1,1,0,1,Heart Disease,Severe,67,Male
+1,0,1,0,0,1,1,0,1,0,1,0,0,1,1,COVID-19,Severe,54,Male
+0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Flu,Moderate,70,Female
+0,0,1,1,0,0,1,1,0,0,1,0,1,0,0,Common Cold,Moderate,78,Male
+1,0,1,0,1,1,1,0,0,0,1,0,0,1,0,Flu,Moderate,42,Male
+0,1,0,1,1,1,1,0,1,0,0,1,1,1,0,Bronchitis,Severe,46,Female
+1,0,0,1,0,0,1,0,0,0,1,1,1,0,1,COVID-19,Moderate,78,Female
+0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Tuberculosis,Mild,48,Male
+1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,Common Cold,Mild,62,Male
+0,1,0,1,1,1,0,0,0,1,0,0,1,1,1,Pneumonia,Severe,52,Male
+0,1,1,0,0,1,0,1,0,0,0,1,1,0,1,Tuberculosis,Severe,45,Male
+0,1,1,0,0,1,1,1,1,0,1,0,1,0,0,Asthma,Mild,55,Male
+1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,Tuberculosis,Moderate,75,Female
+0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,Tuberculosis,Severe,61,Female
+0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,Common Cold,Severe,70,Female
+0,1,0,1,0,1,1,0,0,0,0,1,1,0,0,Diabetes,Severe,67,Female
+1,1,0,1,1,0,1,0,0,0,1,1,0,0,0,Tuberculosis,Mild,67,Male
+0,1,1,0,1,1,0,0,1,0,0,1,0,0,1,Tuberculosis,Severe,21,Female
+1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,Flu,Mild,45,Female
+0,1,1,0,0,0,1,1,0,0,0,0,0,1,1,COVID-19,Mild,69,Male
+0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Pneumonia,Moderate,48,Male
+0,1,0,0,1,0,0,0,1,1,1,0,0,0,0,Common Cold,Moderate,40,Male
+0,0,0,1,0,0,0,1,1,0,0,0,1,1,1,Heart Disease,Moderate,31,Female
+0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,Tuberculosis,Severe,45,Female
+0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,Hypertension,Mild,31,Male
+1,0,1,1,0,1,1,1,0,1,0,0,0,1,1,COVID-19,Severe,18,Male
+0,0,1,0,1,0,0,0,1,1,1,0,0,0,1,Heart Disease,Mild,60,Female
+0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,Flu,Severe,49,Male
+0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,Heart Disease,Mild,71,Male
+0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,Heart Disease,Moderate,76,Male
+0,0,0,1,0,1,0,1,1,0,0,1,0,1,1,Heart Disease,Moderate,78,Female
+0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,Hypertension,Severe,58,Female
+0,0,1,0,0,1,0,1,0,1,1,1,1,0,0,COVID-19,Mild,35,Female
+1,0,1,1,0,1,1,0,0,1,1,1,0,0,0,Heart Disease,Moderate,77,Male
+1,1,0,0,1,0,0,1,1,1,0,0,0,0,0,Asthma,Mild,22,Male
+0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,Diabetes,Severe,59,Female
+0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,Bronchitis,Moderate,32,Male
+1,1,0,0,1,0,0,1,0,1,1,0,1,1,0,Pneumonia,Severe,76,Male
+0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,Asthma,Severe,59,Female
+0,1,0,0,1,0,0,1,1,1,0,0,1,0,0,Tuberculosis,Mild,33,Male
+0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,Flu,Severe,53,Male
+1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,Bronchitis,Severe,53,Male
+1,1,1,0,0,0,0,0,1,1,0,0,1,1,1,Common Cold,Mild,57,Male
+0,0,0,1,1,0,1,0,0,0,0,1,0,0,1,COVID-19,Mild,47,Female
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Bronchitis,Severe,55,Male
+0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,Tuberculosis,Moderate,40,Female
+1,1,1,0,0,0,0,1,1,0,0,1,0,0,0,Tuberculosis,Moderate,28,Female
+0,1,1,0,0,1,0,1,0,0,0,0,1,0,1,Asthma,Mild,77,Female
+0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,Pneumonia,Severe,42,Female
+1,0,1,1,1,0,0,0,0,1,1,0,1,1,0,Asthma,Moderate,62,Male
+0,0,1,0,1,0,1,0,0,1,0,1,1,0,0,Heart Disease,Mild,68,Male
+1,0,1,0,0,1,1,0,0,1,1,1,0,1,1,Common Cold,Mild,60,Female
+0,1,1,1,0,0,1,1,0,1,0,0,1,0,1,Flu,Mild,19,Female
+0,1,1,0,0,0,0,1,1,0,0,1,1,1,1,Pneumonia,Severe,52,Female
+0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,COVID-19,Mild,64,Female
+1,0,1,0,0,1,1,0,1,0,0,1,0,0,1,COVID-19,Moderate,41,Male
+1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,Diabetes,Severe,30,Female
+1,0,1,1,1,1,1,1,0,0,1,1,0,0,1,Pneumonia,Moderate,74,Female
+0,0,0,0,0,1,1,1,1,1,0,1,0,1,1,Pneumonia,Moderate,59,Male
+1,1,1,1,0,1,1,1,0,0,0,0,0,0,1,COVID-19,Moderate,54,Female
+0,0,1,0,1,1,0,0,0,0,0,1,1,0,1,Bronchitis,Severe,73,Male
+0,0,0,0,1,0,1,1,0,1,1,0,1,0,0,COVID-19,Moderate,47,Male
+1,0,1,0,0,0,1,1,1,0,1,1,0,0,0,Bronchitis,Mild,28,Male
+0,1,0,0,0,1,1,0,1,1,0,0,0,1,0,Tuberculosis,Mild,40,Female
+0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,Tuberculosis,Moderate,77,Male
+0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,Flu,Mild,63,Male
+0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,Heart Disease,Severe,45,Female
+0,0,1,1,0,0,0,1,0,0,0,0,1,1,1,Common Cold,Severe,46,Female
+0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,Flu,Mild,74,Female
+0,1,1,0,0,0,1,1,1,0,0,1,0,0,1,Pneumonia,Mild,69,Female
+1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,Asthma,Severe,32,Male
+1,0,0,1,0,0,1,0,0,0,1,0,1,1,0,Bronchitis,Moderate,62,Female
+0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,Flu,Severe,75,Male
+0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,Tuberculosis,Moderate,20,Male
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Asthma,Mild,26,Female
+0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,Heart Disease,Mild,25,Female
+0,0,0,0,1,1,1,0,1,1,1,0,0,1,0,Common Cold,Moderate,64,Female
+1,0,0,1,0,0,0,0,1,1,1,0,1,1,1,Asthma,Moderate,72,Female
+0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,Flu,Severe,50,Male
+0,0,1,0,0,0,0,0,1,1,1,0,1,1,1,COVID-19,Moderate,51,Female
+0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,Diabetes,Mild,26,Male
+0,0,1,0,0,1,0,1,0,1,0,0,0,1,1,Asthma,Mild,70,Male
+1,0,0,0,1,0,0,0,1,1,0,0,1,1,1,Flu,Mild,34,Female
+1,0,1,0,1,1,0,1,0,1,1,0,0,1,1,Hypertension,Moderate,58,Female
+0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,Heart Disease,Moderate,18,Female
+1,0,1,0,1,0,0,1,1,1,1,1,0,0,0,Hypertension,Mild,57,Male
+0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,Common Cold,Moderate,22,Male
+1,1,1,1,0,0,1,1,0,1,0,0,1,0,0,Common Cold,Severe,47,Male
+1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,Asthma,Severe,28,Female
+0,0,1,0,1,0,0,1,0,0,0,0,0,1,1,Asthma,Moderate,45,Female
+0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,Bronchitis,Moderate,55,Female
+0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,COVID-19,Mild,34,Female
+0,1,1,0,1,1,1,1,0,0,1,0,0,0,1,Flu,Moderate,67,Female
+1,0,1,1,1,0,1,0,1,0,0,1,0,0,0,Common Cold,Mild,40,Female
+0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,Common Cold,Severe,35,Female
+0,1,1,1,0,0,1,0,0,1,0,1,0,1,1,Common Cold,Moderate,54,Male
+1,1,0,0,0,0,0,1,1,1,0,1,1,0,1,Common Cold,Severe,44,Male
+1,1,1,1,0,0,0,1,0,0,1,0,0,0,0,Tuberculosis,Moderate,42,Male
+0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,Tuberculosis,Moderate,22,Male
+0,1,0,0,1,1,0,1,1,1,0,0,0,1,1,Tuberculosis,Mild,77,Female
+0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,Heart Disease,Mild,36,Female
+0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Diabetes,Moderate,44,Female
+1,0,0,1,1,0,1,1,0,0,0,1,1,1,0,Pneumonia,Moderate,30,Male
+0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,Tuberculosis,Mild,71,Female
+0,0,0,1,0,0,1,1,0,0,1,1,0,0,1,Bronchitis,Severe,24,Male
+0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,COVID-19,Moderate,43,Male
+0,0,1,0,1,0,0,0,1,0,0,1,0,0,1,Diabetes,Mild,31,Male
+1,1,0,0,1,1,0,0,0,0,0,1,0,0,1,Common Cold,Moderate,44,Female
+1,1,0,1,0,0,1,0,1,1,0,0,1,1,0,Pneumonia,Mild,75,Female
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Pneumonia,Severe,76,Male
+0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,Heart Disease,Moderate,25,Male
+0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,Bronchitis,Moderate,48,Female
+1,0,1,1,0,1,0,0,0,0,1,0,1,0,0,Pneumonia,Severe,52,Male
+1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,Hypertension,Moderate,44,Female
+0,0,0,0,0,1,0,1,0,1,1,0,0,1,1,Flu,Moderate,21,Male
+1,0,0,0,1,1,0,0,0,1,1,1,1,1,0,Common Cold,Moderate,59,Female
+1,1,1,0,0,0,1,1,1,0,0,0,0,1,1,Hypertension,Mild,21,Male
+0,0,1,0,0,1,0,0,1,0,0,0,1,1,1,Pneumonia,Mild,35,Female
+1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,Pneumonia,Moderate,40,Male
+0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,Pneumonia,Severe,49,Female
+0,0,1,0,0,0,0,0,1,0,1,0,1,1,0,Heart Disease,Severe,29,Male
+0,0,1,0,0,1,1,0,1,0,1,1,0,0,1,Hypertension,Moderate,69,Female
+0,1,0,0,1,0,1,0,1,0,0,0,1,0,1,Tuberculosis,Mild,37,Male
+0,0,0,1,1,1,1,1,0,1,0,0,0,0,1,Tuberculosis,Mild,64,Male
+1,0,0,1,1,0,0,1,1,1,0,0,1,0,1,Tuberculosis,Moderate,62,Male
+0,1,0,1,0,1,0,0,0,1,0,0,1,0,0,COVID-19,Mild,29,Male
+1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,Bronchitis,Mild,25,Male
+0,1,0,0,1,0,0,1,1,0,0,1,1,0,0,Hypertension,Severe,71,Male
+0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,Flu,Moderate,39,Female
+0,1,0,0,0,1,0,1,0,1,1,0,0,1,1,Tuberculosis,Mild,44,Female
+0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,Common Cold,Mild,58,Male
+1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,Hypertension,Mild,69,Female
+0,0,0,1,0,0,0,1,1,1,0,0,0,1,1,Bronchitis,Moderate,58,Male
+0,0,0,1,1,0,1,0,1,0,0,1,0,0,1,Pneumonia,Moderate,34,Male
+0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,Asthma,Mild,76,Female
+1,0,1,1,0,0,0,0,0,1,1,1,0,0,0,Heart Disease,Severe,74,Male
+1,1,0,0,1,0,1,0,1,1,0,0,0,0,1,Tuberculosis,Severe,49,Male
+1,1,0,0,0,0,1,1,1,0,1,0,1,0,1,Common Cold,Moderate,50,Female
+0,1,1,1,0,0,0,0,0,1,0,0,1,0,1,Bronchitis,Severe,48,Male
+0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,Tuberculosis,Mild,72,Male
+0,1,1,0,0,1,0,0,1,0,1,0,1,1,1,Common Cold,Moderate,23,Female
+0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,Heart Disease,Moderate,56,Female
+0,1,0,1,1,1,1,1,0,1,1,1,1,1,0,Common Cold,Severe,26,Male
+0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,Heart Disease,Moderate,59,Male
+0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,Bronchitis,Severe,49,Male
+0,0,1,1,0,0,0,1,0,0,1,0,1,1,0,COVID-19,Severe,53,Male
+1,1,1,0,0,0,1,0,0,0,1,1,1,0,0,Tuberculosis,Mild,33,Male
+0,1,0,0,1,1,0,0,0,0,1,1,0,1,0,Tuberculosis,Severe,29,Male
+0,0,0,1,1,1,1,0,1,0,1,0,0,0,1,Bronchitis,Severe,58,Male
+1,0,1,1,1,1,1,0,0,0,0,1,1,1,0,COVID-19,Moderate,20,Female
+0,1,1,1,0,1,0,0,1,0,0,0,1,0,1,COVID-19,Mild,75,Male
+1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,Tuberculosis,Mild,44,Male
+0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,Pneumonia,Severe,44,Female
+0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,Heart Disease,Moderate,26,Male
+1,0,1,1,0,0,1,0,0,0,0,1,0,0,1,Diabetes,Moderate,78,Male
+1,0,0,0,1,1,0,1,1,1,1,1,0,1,1,Tuberculosis,Moderate,34,Female
+1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Pneumonia,Mild,63,Male
+0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,Tuberculosis,Mild,22,Female
+0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Pneumonia,Severe,43,Female
+0,0,0,0,1,0,0,0,0,1,1,0,1,1,0,Tuberculosis,Severe,38,Female
+0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,Bronchitis,Moderate,18,Female
+1,0,0,0,1,1,1,0,1,1,0,0,0,0,1,Diabetes,Severe,18,Female
+0,1,0,1,1,0,1,0,1,0,1,1,0,0,1,Hypertension,Moderate,52,Female
+1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,Hypertension,Mild,26,Female
+0,0,0,1,1,0,0,1,0,0,1,1,1,0,0,Flu,Severe,40,Male
+0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,Heart Disease,Moderate,55,Female
+0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,Bronchitis,Mild,58,Female
+1,0,1,0,1,0,0,1,1,0,0,1,0,0,0,Diabetes,Moderate,21,Male
+1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,Pneumonia,Severe,69,Male
+1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,Heart Disease,Moderate,36,Female
+1,0,0,0,0,1,1,1,1,0,0,1,0,1,0,Diabetes,Mild,54,Female
+1,1,0,0,0,0,0,1,1,1,0,0,1,1,1,COVID-19,Severe,22,Female
+1,0,0,0,0,0,1,0,1,0,0,1,1,0,1,Heart Disease,Mild,45,Female
+0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,Bronchitis,Severe,63,Male
+0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,Flu,Moderate,59,Male
+0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,Bronchitis,Mild,72,Female
+1,1,0,1,1,1,1,0,1,1,0,0,1,1,1,Pneumonia,Mild,65,Male
+1,0,1,1,0,1,1,1,1,0,0,0,0,1,0,Hypertension,Moderate,40,Male
+0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,Common Cold,Mild,55,Male
+1,1,1,0,0,0,0,1,1,0,0,1,0,1,0,Asthma,Mild,69,Male
+1,1,0,1,1,0,0,1,1,0,0,1,0,0,0,Common Cold,Mild,40,Female
+0,0,1,1,0,1,0,0,1,0,1,1,0,0,1,Asthma,Mild,63,Male
+0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,Bronchitis,Moderate,35,Male
+1,1,0,0,0,0,0,1,0,1,1,1,0,1,1,Diabetes,Mild,46,Female
+0,1,0,1,1,1,0,1,1,0,1,0,0,0,0,Pneumonia,Mild,45,Male
+1,1,0,1,0,0,0,1,0,1,0,0,0,0,1,Tuberculosis,Mild,26,Female
+0,0,0,0,1,0,0,0,1,1,1,0,1,1,0,Hypertension,Severe,56,Female
+1,0,1,1,1,0,1,0,1,1,0,0,0,0,0,Heart Disease,Severe,67,Male
+1,0,1,0,1,0,0,0,1,0,0,1,1,1,1,Flu,Moderate,27,Male
+1,1,1,0,1,0,1,0,0,0,1,0,0,1,0,Pneumonia,Moderate,19,Female
+0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,Bronchitis,Moderate,30,Male
+1,0,0,1,0,0,1,0,0,0,1,1,0,1,0,COVID-19,Mild,55,Female
+1,1,0,0,1,1,1,1,0,0,1,1,1,1,0,COVID-19,Severe,44,Female
+0,0,1,0,0,1,1,0,0,1,0,1,0,1,1,Pneumonia,Severe,72,Male
+1,1,0,0,0,1,1,1,0,0,1,0,0,0,1,Asthma,Moderate,58,Female
+0,1,1,0,1,1,0,1,0,0,0,1,1,0,0,COVID-19,Severe,37,Female
+0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,Bronchitis,Moderate,57,Male
+0,0,0,1,0,0,1,1,0,0,1,0,1,0,1,Flu,Mild,79,Male
+0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,Tuberculosis,Severe,27,Female
+0,1,0,0,0,0,1,0,0,1,1,1,0,0,1,Heart Disease,Mild,33,Male
+1,1,1,0,1,0,0,1,1,0,0,1,0,1,1,Common Cold,Mild,32,Female
+0,1,1,0,0,0,1,1,0,1,0,0,1,0,0,Diabetes,Severe,30,Male
+1,0,1,1,0,1,0,0,0,0,1,1,0,0,0,Common Cold,Moderate,67,Female
+0,1,1,0,0,0,0,0,1,1,0,1,1,0,0,Asthma,Severe,55,Male
+0,1,0,0,1,1,0,1,1,0,0,0,0,1,0,COVID-19,Mild,37,Male
+0,1,1,0,1,0,1,1,0,0,0,0,1,1,1,Tuberculosis,Moderate,41,Male
+1,1,0,1,0,1,0,0,1,0,1,1,0,0,1,Heart Disease,Mild,58,Male
+0,1,0,1,1,1,0,1,1,0,0,0,0,1,1,Flu,Moderate,67,Male
+1,1,1,1,0,1,0,0,1,0,1,1,0,0,0,Hypertension,Severe,24,Female
+1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,Pneumonia,Mild,40,Female
+1,0,0,0,0,0,1,0,1,0,1,1,0,1,0,Diabetes,Moderate,41,Male
+0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,Hypertension,Moderate,46,Female
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Diabetes,Severe,22,Male
+1,0,1,0,0,0,1,0,1,0,0,1,0,1,1,Common Cold,Moderate,60,Female
+0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,COVID-19,Moderate,62,Female
+1,0,1,0,1,1,1,0,1,0,1,0,0,0,1,Flu,Mild,52,Female
+0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Tuberculosis,Severe,18,Male
+1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,Diabetes,Severe,53,Male
+1,1,0,1,0,0,0,1,0,1,1,1,1,0,1,Diabetes,Mild,68,Female
+1,0,1,1,0,0,0,1,0,0,1,1,0,0,0,Heart Disease,Mild,35,Female
+0,1,0,1,0,1,0,0,0,0,1,0,1,1,0,Bronchitis,Mild,23,Female
+1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,Diabetes,Moderate,40,Female
+0,0,0,1,0,0,1,1,0,0,1,0,0,1,1,Pneumonia,Severe,27,Male
+0,0,1,0,1,1,0,0,1,1,0,1,0,0,0,Flu,Severe,24,Male
+1,0,1,1,1,1,0,1,0,0,0,1,1,0,0,Flu,Severe,61,Female
+1,1,0,0,1,0,0,0,1,1,0,1,1,0,0,Hypertension,Moderate,25,Male
+1,1,0,1,0,1,0,0,0,0,0,1,1,0,0,Pneumonia,Severe,30,Female
+1,0,1,0,1,1,0,1,0,0,0,0,1,0,0,Tuberculosis,Severe,47,Male
+0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,Asthma,Severe,35,Female
+0,0,1,1,0,0,0,1,0,0,0,1,0,1,1,Bronchitis,Severe,31,Male
+1,0,0,0,1,0,1,0,1,0,1,1,0,0,0,Asthma,Mild,28,Female
+0,0,0,1,0,1,1,0,1,1,0,1,0,1,1,Hypertension,Moderate,77,Male
+0,0,1,1,0,1,1,0,0,1,0,1,0,0,1,Flu,Severe,59,Female
+0,1,1,1,0,0,0,0,1,1,0,1,0,0,1,Pneumonia,Severe,78,Male
+0,1,1,1,0,0,1,1,1,0,0,1,0,0,0,Asthma,Severe,55,Female
+0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,Tuberculosis,Severe,30,Female
+0,1,1,0,0,0,1,0,1,1,0,1,0,0,1,Tuberculosis,Severe,71,Male
+0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,COVID-19,Mild,59,Male
+0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,Diabetes,Mild,61,Male
+1,0,1,1,0,1,1,1,1,0,1,0,0,1,1,Diabetes,Moderate,50,Female
+0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,Tuberculosis,Moderate,67,Female
+0,1,0,1,0,1,0,1,1,1,0,0,1,1,0,Pneumonia,Severe,30,Female
+1,1,0,1,1,0,0,1,1,0,0,0,0,1,0,Hypertension,Severe,42,Male
+0,0,1,1,0,0,0,1,1,0,1,0,0,0,1,COVID-19,Mild,41,Female
+1,1,0,0,1,0,1,1,1,0,0,1,1,1,0,Heart Disease,Moderate,77,Male
+1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,Tuberculosis,Severe,46,Female
+0,1,0,0,1,1,0,0,0,0,0,0,1,0,1,Pneumonia,Severe,53,Female
+0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,Common Cold,Severe,23,Female
+1,0,1,1,0,0,0,1,1,0,1,1,1,0,0,Flu,Moderate,35,Male
+1,0,0,0,1,0,0,1,0,1,1,0,1,0,0,Asthma,Mild,45,Female
+0,1,0,0,0,0,1,1,0,0,1,0,1,1,1,Pneumonia,Mild,22,Female
+1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,Common Cold,Severe,35,Male
+0,1,1,0,1,1,0,0,1,0,1,0,1,0,1,Diabetes,Severe,78,Female
+1,0,1,1,0,0,1,1,1,0,1,0,1,1,0,Common Cold,Severe,54,Male
+0,1,0,1,0,1,0,1,0,0,1,1,1,0,0,Tuberculosis,Severe,24,Female
+1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,Bronchitis,Severe,72,Female
+1,1,0,0,1,0,0,1,0,1,0,1,1,1,1,Heart Disease,Moderate,26,Male
+1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,Asthma,Mild,52,Female
+0,0,1,1,0,1,1,0,0,0,0,0,0,1,0,Diabetes,Moderate,29,Male
+0,0,0,0,0,1,1,1,1,0,1,1,0,0,1,Common Cold,Moderate,69,Male
+0,1,0,0,0,0,0,1,1,1,1,1,0,0,0,Bronchitis,Severe,74,Female
+0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,Diabetes,Moderate,63,Female
+0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,Tuberculosis,Mild,57,Female
+1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,Common Cold,Severe,61,Female
+0,0,0,1,1,1,0,1,0,1,1,1,1,1,0,Pneumonia,Mild,56,Female
+0,1,1,0,0,0,1,0,0,0,1,0,1,1,0,Diabetes,Moderate,41,Male
+1,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Pneumonia,Severe,26,Male
+1,1,0,0,1,1,1,1,0,0,0,0,0,1,0,Common Cold,Mild,29,Male
+1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,Tuberculosis,Mild,53,Male
+1,0,0,0,0,0,1,0,1,1,1,0,0,0,0,Heart Disease,Severe,54,Male
+0,0,1,0,0,0,0,1,1,1,0,0,0,1,0,Hypertension,Mild,26,Female
+0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,Heart Disease,Severe,56,Male
+1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,Common Cold,Severe,63,Male
+1,1,1,0,1,1,0,0,1,0,0,0,1,1,1,Common Cold,Moderate,69,Female
+0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,COVID-19,Mild,39,Female
+1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,Common Cold,Severe,76,Female
+0,0,0,1,1,1,0,0,0,1,0,0,0,0,1,Hypertension,Moderate,34,Female
+0,0,0,1,0,1,1,0,0,1,0,1,0,1,0,Bronchitis,Moderate,50,Male
+0,1,0,0,0,0,0,1,0,1,1,0,0,1,1,Pneumonia,Severe,74,Female
+0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,Tuberculosis,Severe,64,Male
+0,0,0,1,1,1,0,1,0,1,1,0,0,0,1,Asthma,Mild,41,Female
+0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,Common Cold,Mild,32,Female
+1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Heart Disease,Mild,46,Male
+0,1,0,0,1,0,0,1,1,1,0,1,0,0,1,COVID-19,Severe,49,Male
+0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,COVID-19,Moderate,50,Female
+1,1,0,0,1,1,0,0,1,1,1,0,0,0,1,Heart Disease,Moderate,46,Male
+1,1,0,1,0,0,0,0,0,0,1,1,0,1,0,Flu,Severe,32,Female
+1,0,1,1,0,0,1,0,0,0,0,1,0,1,1,Common Cold,Mild,44,Female
+1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,Pneumonia,Moderate,51,Male
+1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,COVID-19,Moderate,78,Male
+0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,Bronchitis,Mild,21,Male
+0,0,1,0,0,0,0,1,0,0,1,1,1,1,0,Tuberculosis,Moderate,66,Female
+0,1,1,0,0,1,1,0,0,0,0,0,0,1,1,Pneumonia,Mild,65,Male
+0,0,0,0,0,0,1,0,1,1,1,1,1,1,0,Bronchitis,Moderate,35,Male
+0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,COVID-19,Moderate,38,Female
+1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,Common Cold,Moderate,65,Male
+0,1,0,0,0,0,0,1,0,1,1,0,1,1,0,Asthma,Mild,25,Male
+0,0,1,0,1,0,1,1,1,0,1,0,0,1,0,Pneumonia,Moderate,23,Male
+0,0,1,0,0,0,0,1,0,1,0,1,1,1,0,Heart Disease,Moderate,71,Male
+1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,Common Cold,Moderate,37,Female
+0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,COVID-19,Severe,19,Male
+1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,Tuberculosis,Moderate,68,Female
+0,1,0,1,1,0,1,1,0,0,1,0,0,0,0,Tuberculosis,Moderate,62,Female
+0,1,1,0,1,1,0,0,1,1,1,0,1,1,1,Bronchitis,Mild,39,Male
+0,1,0,0,0,1,0,0,0,1,0,1,1,0,1,Hypertension,Mild,71,Female
+1,0,0,0,1,1,0,1,1,0,0,0,1,0,0,Flu,Severe,38,Male
+0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,Tuberculosis,Mild,23,Female
+1,1,0,0,1,0,1,0,0,1,1,0,1,0,0,Pneumonia,Mild,76,Male
+0,1,1,0,0,0,0,1,0,1,1,0,0,0,1,Common Cold,Mild,49,Female
+0,0,1,0,1,0,1,0,0,1,0,1,0,0,1,Pneumonia,Severe,23,Female
+1,0,1,0,1,0,1,0,1,0,0,1,0,1,0,Diabetes,Severe,30,Female
+1,1,0,0,1,0,1,0,1,1,1,0,0,0,0,Asthma,Moderate,18,Female
+1,0,0,1,0,0,0,0,1,1,1,1,1,0,1,Common Cold,Moderate,39,Female
+1,0,1,1,0,1,1,0,1,1,0,0,0,0,1,Hypertension,Mild,70,Female
+1,0,1,0,1,0,0,1,1,0,1,1,1,1,0,Hypertension,Moderate,41,Male
+1,0,0,1,1,0,1,0,0,0,1,0,0,1,1,Tuberculosis,Moderate,58,Female
+1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,Hypertension,Severe,47,Male
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Flu,Severe,39,Female
+1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,Heart Disease,Moderate,78,Male
+1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,Tuberculosis,Moderate,61,Female
+1,0,0,0,1,0,0,1,0,1,0,1,0,1,0,Common Cold,Moderate,29,Female
+0,1,0,1,0,0,0,1,0,1,0,0,0,0,1,Asthma,Mild,43,Female
+1,1,1,1,0,0,0,1,0,1,0,1,0,0,0,Heart Disease,Severe,21,Female
+1,0,1,1,0,0,1,0,1,0,0,0,0,0,0,COVID-19,Moderate,36,Female
+0,1,0,1,0,1,1,0,0,1,0,1,0,0,1,Hypertension,Moderate,33,Female
+1,0,0,0,1,0,0,1,0,1,0,0,1,1,0,Common Cold,Mild,75,Female
+0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,Common Cold,Severe,29,Female
+0,0,0,1,1,0,0,1,0,0,1,1,0,0,0,Hypertension,Mild,50,Male
+1,1,0,0,1,0,0,1,0,0,0,1,0,0,0,Heart Disease,Mild,72,Male
+0,1,1,1,1,0,1,1,0,0,0,1,1,1,0,Pneumonia,Moderate,38,Female
+1,0,0,1,0,0,0,0,0,0,1,0,1,1,1,Heart Disease,Mild,53,Male
+1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,Pneumonia,Mild,26,Female
+0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,Tuberculosis,Moderate,56,Male
+0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,Flu,Severe,59,Female
+0,0,0,1,0,1,0,0,1,0,1,0,1,0,0,Bronchitis,Moderate,62,Male
+1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,Common Cold,Severe,25,Male
+1,0,1,0,1,0,0,0,0,1,1,1,1,0,0,Flu,Mild,37,Female
+1,1,0,1,0,0,0,0,0,0,1,1,0,0,0,Pneumonia,Mild,27,Male
+0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,Heart Disease,Moderate,49,Female
+1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,Tuberculosis,Moderate,45,Female
+0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,Hypertension,Moderate,27,Male
+1,0,0,0,1,0,1,0,1,0,0,1,0,0,0,COVID-19,Mild,25,Female
+0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,Hypertension,Mild,69,Male
+1,0,0,1,0,0,1,0,0,0,0,1,1,0,1,Hypertension,Severe,64,Male
+0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Flu,Moderate,50,Male
+1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,COVID-19,Mild,76,Male
+0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,Heart Disease,Severe,64,Male
+1,0,1,1,1,0,0,0,0,1,0,1,1,0,0,Asthma,Moderate,73,Male
+1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,Common Cold,Moderate,66,Female
+0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,Flu,Severe,30,Male
+1,0,1,1,1,0,0,0,1,0,1,1,1,0,0,Heart Disease,Severe,61,Male
+1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Tuberculosis,Severe,52,Male
+0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,Tuberculosis,Mild,72,Female
+0,0,1,0,0,0,0,0,1,1,1,1,0,1,1,Common Cold,Moderate,68,Female
+1,0,1,1,1,0,0,1,1,0,1,1,1,0,1,Heart Disease,Moderate,46,Female
+0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,Flu,Severe,73,Male
+0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,COVID-19,Mild,22,Male
+0,0,0,1,0,0,0,1,0,1,1,1,0,1,0,Tuberculosis,Severe,20,Male
+1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,Heart Disease,Mild,70,Female
+0,1,1,1,1,0,0,0,0,0,1,0,1,1,0,COVID-19,Moderate,54,Female
+1,0,0,0,0,1,1,0,1,0,0,1,1,0,1,Heart Disease,Moderate,73,Female
+1,1,0,0,0,1,1,0,1,0,1,0,0,0,0,Asthma,Mild,77,Male
+1,0,0,0,1,0,1,1,0,0,0,1,0,1,0,Diabetes,Moderate,58,Male
+1,1,0,1,1,0,0,1,0,0,1,1,0,1,1,Common Cold,Moderate,23,Female
+0,1,1,0,1,0,0,0,0,1,1,1,0,1,0,Bronchitis,Severe,65,Male
+1,0,1,0,0,1,0,0,0,1,1,1,0,1,0,Tuberculosis,Mild,59,Female
+0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,Heart Disease,Moderate,33,Female
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Flu,Moderate,52,Female
+0,0,1,0,0,0,0,0,1,0,1,1,0,1,1,Heart Disease,Mild,35,Male
+0,1,0,1,1,0,0,0,0,1,1,0,0,1,1,Flu,Moderate,28,Female
+1,1,0,0,0,0,0,1,1,0,0,1,1,1,0,Pneumonia,Mild,68,Female
+1,0,0,1,0,1,1,1,1,0,1,1,1,1,0,Asthma,Mild,74,Male
+0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,Hypertension,Severe,40,Male
+0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,Heart Disease,Mild,64,Female
+1,0,0,1,1,1,1,0,1,0,0,0,1,1,0,COVID-19,Severe,28,Male
+0,1,0,0,0,1,1,1,1,0,1,0,0,0,0,Bronchitis,Moderate,76,Male
+0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,Hypertension,Mild,74,Male
+0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,Asthma,Severe,46,Male
+1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,Pneumonia,Mild,71,Female
+1,0,1,1,0,1,1,0,0,0,0,0,0,0,1,COVID-19,Moderate,73,Male
+0,0,1,0,1,1,1,0,0,0,1,0,0,1,1,Asthma,Severe,59,Female
+0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,Diabetes,Severe,44,Male
+1,1,0,0,1,1,0,1,1,1,1,0,0,0,1,Pneumonia,Severe,26,Male
+1,1,1,0,1,1,0,0,1,0,1,0,1,1,1,Tuberculosis,Moderate,52,Female
+0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,Diabetes,Severe,72,Male
+1,1,0,0,1,0,1,0,0,1,1,1,0,1,0,Diabetes,Moderate,26,Male
+0,1,1,0,0,1,1,1,1,0,0,0,1,0,1,Hypertension,Moderate,35,Female
+0,1,1,1,0,0,1,0,1,0,0,0,1,1,0,Common Cold,Mild,61,Female
+1,0,1,0,0,0,0,0,1,0,0,1,1,0,1,Tuberculosis,Moderate,72,Female
+0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,Pneumonia,Severe,38,Male
+1,0,1,1,1,1,0,0,0,1,1,1,0,1,1,Hypertension,Severe,73,Male
+0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,Tuberculosis,Moderate,65,Male
+0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,Asthma,Moderate,53,Female
+1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,Bronchitis,Mild,18,Male
+0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,Pneumonia,Mild,44,Female
+1,1,1,1,0,0,0,1,0,1,0,0,0,1,0,Hypertension,Severe,62,Female
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bronchitis,Moderate,75,Female
+0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,Pneumonia,Severe,57,Female
+0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,Diabetes,Moderate,55,Female
+1,1,0,1,0,0,1,0,1,0,1,1,1,0,0,Bronchitis,Severe,46,Male
+0,1,0,1,0,1,0,1,1,0,0,0,0,0,1,Bronchitis,Severe,57,Female
+1,1,0,1,1,0,1,1,0,0,0,1,0,0,1,COVID-19,Severe,36,Female
+0,0,1,0,1,0,0,1,1,1,1,0,0,0,1,Pneumonia,Moderate,41,Female
+1,1,1,0,1,0,1,1,1,1,0,0,1,0,1,Tuberculosis,Mild,73,Female
+0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,Common Cold,Mild,61,Male
+1,0,1,1,1,0,0,0,0,1,0,0,1,1,1,Asthma,Moderate,18,Male
+1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Flu,Mild,53,Male
+1,0,1,1,0,0,0,0,0,1,0,1,0,1,1,Hypertension,Severe,40,Female
+1,0,0,1,0,0,0,1,1,0,0,1,1,1,1,Bronchitis,Moderate,30,Male
+1,1,0,0,0,0,0,1,1,0,0,0,1,1,1,Heart Disease,Moderate,47,Male
+1,1,1,1,0,0,1,0,1,0,0,0,1,1,0,Bronchitis,Mild,76,Female
+0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,Diabetes,Mild,66,Female
+0,0,0,1,1,0,1,0,0,0,1,0,0,0,1,Pneumonia,Severe,68,Female
+1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,Diabetes,Moderate,68,Female
+1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,Common Cold,Mild,71,Female
+1,0,0,0,1,1,1,0,1,0,0,1,1,1,1,Asthma,Moderate,54,Male
+0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,COVID-19,Severe,77,Male
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Pneumonia,Severe,28,Male
+0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,Diabetes,Severe,24,Male
+1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,COVID-19,Moderate,52,Male
+0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,Flu,Moderate,28,Female
+0,0,1,1,0,0,0,1,0,0,1,1,1,0,1,Flu,Moderate,66,Male
+0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,Pneumonia,Moderate,60,Male
+0,1,0,0,1,0,1,1,0,1,0,0,0,1,0,Asthma,Moderate,64,Male
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Heart Disease,Severe,68,Male
+0,0,0,1,0,0,1,1,1,0,0,1,0,0,1,Bronchitis,Severe,57,Male
+1,0,1,1,0,1,1,0,0,1,1,1,1,0,0,Tuberculosis,Severe,65,Female
+0,1,0,1,1,0,1,0,1,0,1,0,0,0,0,Asthma,Mild,38,Female
+0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,Asthma,Severe,64,Male
+0,0,1,1,1,0,1,0,0,1,0,0,1,0,1,Heart Disease,Moderate,20,Female
+0,1,0,1,0,1,0,1,1,0,1,0,1,0,0,Diabetes,Severe,47,Male
+0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,COVID-19,Mild,41,Male
+0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,Pneumonia,Mild,55,Female
+1,0,1,0,0,0,0,0,1,0,1,0,1,1,0,Tuberculosis,Mild,20,Female
+0,1,1,1,0,0,0,0,1,0,0,1,1,0,0,COVID-19,Mild,79,Female
+1,0,1,1,0,0,0,0,0,1,0,1,0,0,1,Bronchitis,Mild,54,Male
+1,0,1,1,1,0,0,0,0,1,1,1,1,0,0,Tuberculosis,Moderate,50,Male
+1,1,0,0,1,0,1,0,0,0,1,0,0,1,1,Flu,Severe,39,Male
+0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,Asthma,Moderate,48,Female
+0,0,1,0,0,1,1,1,1,1,1,1,0,1,1,Bronchitis,Moderate,63,Female
+0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,Common Cold,Mild,29,Male
+0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,Flu,Severe,62,Female
+1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,Bronchitis,Severe,31,Female
+0,0,0,1,1,1,0,1,0,0,0,0,0,1,1,Diabetes,Severe,74,Male
+0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,Common Cold,Mild,29,Female
+1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Pneumonia,Moderate,72,Female
+1,1,1,0,0,1,0,0,0,1,1,0,1,0,0,COVID-19,Severe,44,Male
+0,1,0,0,0,0,1,1,1,1,1,0,0,0,1,Bronchitis,Moderate,30,Male
+0,1,0,0,1,1,1,1,0,0,0,0,1,1,0,Flu,Severe,41,Male
+0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,Diabetes,Severe,55,Female
+0,0,0,1,0,0,0,1,1,1,1,0,1,0,1,Diabetes,Severe,76,Male
+0,1,1,0,0,0,0,1,1,1,1,0,1,0,1,Flu,Severe,70,Female
+0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,Bronchitis,Mild,64,Male
+0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,Tuberculosis,Mild,77,Male
+0,1,1,0,1,1,0,1,0,1,0,0,1,1,0,Hypertension,Moderate,71,Male
+0,1,0,0,1,1,0,1,0,0,0,1,1,0,0,Hypertension,Mild,72,Female
+0,1,0,1,0,0,0,0,0,0,0,0,1,1,1,Flu,Severe,65,Male
+0,0,0,1,0,0,0,1,0,1,1,0,1,1,0,Diabetes,Moderate,26,Male
+1,0,1,1,0,1,1,0,0,1,1,1,1,0,0,COVID-19,Moderate,25,Female
+1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Diabetes,Moderate,54,Female
+0,0,0,1,1,0,1,1,0,1,0,0,0,1,0,Heart Disease,Severe,32,Male
+0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,Diabetes,Severe,24,Male
+0,1,0,1,0,0,0,0,1,0,1,1,0,0,1,Flu,Moderate,41,Male
+1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,Bronchitis,Mild,66,Female
+1,0,0,0,1,0,1,0,0,1,1,1,1,1,1,Tuberculosis,Severe,33,Female
+0,1,0,0,0,1,1,0,0,1,0,1,1,0,0,Asthma,Severe,41,Male
+1,1,1,0,0,0,1,0,0,1,1,1,1,1,1,Tuberculosis,Mild,60,Male
+0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,COVID-19,Moderate,24,Male
+0,1,0,1,1,1,1,1,1,0,0,0,0,0,1,COVID-19,Mild,60,Male
+1,0,1,0,0,1,0,1,1,0,1,1,1,0,0,Bronchitis,Severe,77,Female
+1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,Tuberculosis,Moderate,45,Female
+1,1,0,0,1,0,1,1,0,0,0,0,0,1,1,Flu,Moderate,19,Female
+1,0,1,1,0,1,0,0,1,1,0,1,0,1,0,Hypertension,Mild,51,Male
+0,0,1,1,1,0,1,0,1,1,0,0,1,0,1,Diabetes,Severe,77,Male
+1,1,1,0,0,0,0,0,0,1,0,0,0,1,1,Common Cold,Severe,55,Female
+0,0,0,0,1,0,1,1,0,0,1,1,1,0,0,Heart Disease,Moderate,20,Male
+1,1,1,1,0,0,0,1,0,0,1,0,0,0,1,Flu,Severe,18,Female
+0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,Tuberculosis,Moderate,48,Male
+1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Common Cold,Moderate,73,Male
+0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,Hypertension,Moderate,40,Male
+1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,Flu,Severe,37,Female
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Pneumonia,Mild,33,Male
+1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,Common Cold,Moderate,63,Male
+0,0,0,1,0,0,1,1,1,0,0,1,1,0,1,Flu,Mild,49,Female
+0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Hypertension,Mild,34,Male
+0,1,0,1,0,0,0,1,1,0,1,1,0,1,0,Common Cold,Mild,35,Male
+0,0,1,0,0,1,0,1,0,0,1,0,1,0,1,Bronchitis,Mild,74,Female
+1,1,1,1,0,0,1,0,0,0,1,1,0,1,0,Diabetes,Mild,21,Male
+0,0,0,1,1,0,0,1,0,0,1,0,0,0,1,Diabetes,Moderate,52,Female
+1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,Diabetes,Severe,57,Male
+0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,COVID-19,Mild,53,Male
+0,1,0,1,0,1,0,0,0,0,0,0,0,1,1,Asthma,Severe,40,Female
+1,0,1,0,1,0,0,1,0,1,0,0,0,0,0,Hypertension,Severe,32,Male
+1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,Diabetes,Moderate,30,Female
+0,0,1,0,0,0,1,0,1,1,1,1,0,1,1,Tuberculosis,Mild,31,Male
+0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,Asthma,Severe,79,Female
+1,1,0,0,1,0,0,1,0,0,1,0,1,0,0,Heart Disease,Severe,31,Male
+0,0,0,1,1,1,0,1,0,1,1,0,0,1,0,Asthma,Mild,54,Male
+1,0,1,0,0,0,1,1,1,0,1,0,1,1,1,Common Cold,Moderate,22,Male
+1,0,0,1,0,1,0,0,0,1,1,0,1,0,1,Tuberculosis,Moderate,76,Male
+1,1,0,0,0,0,1,0,1,0,1,0,1,0,1,Flu,Mild,39,Male
+0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,Tuberculosis,Severe,45,Female
+1,0,1,0,0,0,0,1,0,1,0,0,1,0,0,COVID-19,Moderate,62,Male
+0,1,0,1,1,1,0,0,0,0,0,1,0,1,1,Diabetes,Moderate,21,Female
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,Heart Disease,Severe,67,Female
+0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,Diabetes,Severe,55,Male
+0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,Pneumonia,Severe,46,Male
+1,1,1,0,1,0,0,1,0,0,1,1,1,0,0,Heart Disease,Severe,54,Male
+1,1,1,0,0,1,1,1,1,0,1,0,1,1,1,Pneumonia,Mild,52,Female
+1,0,0,1,0,0,1,1,0,1,0,1,0,1,0,Flu,Severe,37,Male
+0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,Heart Disease,Moderate,52,Male
+0,1,1,0,0,1,0,1,0,0,0,0,0,1,0,Diabetes,Severe,52,Male
+0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,COVID-19,Severe,37,Male
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Flu,Mild,19,Male
+0,0,1,0,1,0,0,1,0,0,0,1,1,0,1,Heart Disease,Mild,69,Male
+1,1,1,0,0,1,0,0,1,1,0,1,0,0,0,Bronchitis,Severe,75,Female
+0,0,0,1,0,0,1,1,0,1,1,1,0,1,1,COVID-19,Mild,76,Male
+0,0,0,1,0,0,0,1,1,1,0,1,0,0,1,Diabetes,Mild,35,Female
+1,1,1,1,0,1,1,1,1,0,1,0,0,1,1,Pneumonia,Mild,47,Female
+0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Hypertension,Mild,59,Male
+1,0,1,1,1,0,0,0,1,1,1,1,1,0,0,Pneumonia,Severe,73,Male
+1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,Diabetes,Mild,75,Female
+0,0,1,0,1,0,0,0,1,1,0,1,1,0,0,Asthma,Mild,70,Male
+0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,Common Cold,Moderate,46,Male
+0,0,0,0,1,1,1,1,0,1,1,0,0,1,0,Tuberculosis,Severe,56,Male
+1,1,0,0,1,0,1,1,0,0,0,1,0,0,0,Diabetes,Mild,76,Male
+0,0,1,0,0,1,1,0,0,0,0,0,1,0,1,Bronchitis,Moderate,69,Female
+1,1,1,0,0,1,1,1,0,0,1,0,1,0,1,Diabetes,Mild,75,Female
+1,0,0,0,1,1,1,1,0,1,0,0,1,1,1,Bronchitis,Severe,39,Female
+1,0,0,1,0,0,0,1,0,1,0,1,0,0,1,Pneumonia,Moderate,46,Male
+0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,Asthma,Moderate,77,Female
+1,0,0,1,0,0,1,0,0,1,1,0,1,1,1,Heart Disease,Severe,63,Female
+1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,Diabetes,Moderate,27,Female
+0,0,0,1,0,1,1,1,1,0,0,0,1,1,1,Common Cold,Moderate,37,Male
+0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,Flu,Mild,33,Male
+1,1,0,0,1,1,0,1,1,0,0,0,0,1,0,Bronchitis,Moderate,23,Male
+0,1,0,0,1,0,1,0,0,0,1,1,1,0,1,Common Cold,Severe,34,Male
+1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,Flu,Mild,23,Male
+0,0,0,1,1,0,0,1,1,1,0,0,1,0,1,Heart Disease,Moderate,39,Female
+0,1,0,0,0,1,1,1,0,1,0,1,1,0,1,Tuberculosis,Mild,35,Female
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,Diabetes,Severe,49,Male
+0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,Bronchitis,Moderate,45,Male
+0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,Pneumonia,Severe,59,Female
+0,0,0,0,0,0,1,1,1,1,0,0,0,1,1,Flu,Severe,27,Female
+0,0,0,0,0,0,1,1,1,0,1,0,1,0,1,Bronchitis,Moderate,58,Male
+0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Asthma,Moderate,39,Male
+0,1,0,1,0,0,1,0,0,0,0,1,0,1,0,Tuberculosis,Mild,45,Male
+1,0,0,0,1,0,0,0,1,0,0,0,1,1,0,Bronchitis,Severe,32,Female
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,Flu,Moderate,60,Female
+1,0,1,0,1,1,1,1,0,0,1,0,1,1,0,Hypertension,Severe,46,Male
+0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,Heart Disease,Moderate,24,Male
+1,0,1,0,0,1,0,0,1,0,0,0,0,1,1,Tuberculosis,Severe,67,Female
+0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,Tuberculosis,Mild,51,Female
+1,1,0,1,0,0,1,0,1,1,0,1,0,1,1,Hypertension,Severe,49,Female
+0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,Heart Disease,Moderate,19,Male
+0,0,0,1,1,0,1,1,0,1,0,0,1,1,0,Asthma,Mild,43,Male
+0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,Pneumonia,Mild,62,Male
+0,1,1,0,1,1,1,0,0,0,1,1,0,0,0,Tuberculosis,Moderate,28,Male
+0,1,0,0,0,0,0,0,1,1,0,1,1,1,0,Asthma,Mild,42,Female
+0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Tuberculosis,Severe,36,Female
+1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,Pneumonia,Severe,78,Male
+0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,Hypertension,Moderate,37,Male
+0,0,0,0,1,0,1,1,0,0,1,1,1,0,0,Pneumonia,Severe,50,Male
+1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,Common Cold,Moderate,34,Male
+1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,Diabetes,Mild,69,Male
+0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,Diabetes,Severe,47,Male
+0,1,0,0,1,1,0,1,1,0,1,0,0,0,0,Hypertension,Moderate,35,Male
+0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,Pneumonia,Severe,49,Male
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,Tuberculosis,Mild,57,Male
+1,0,1,0,0,1,1,1,0,1,1,0,1,1,0,Flu,Mild,62,Male
+0,0,1,1,0,1,0,1,0,1,1,1,0,1,0,COVID-19,Severe,21,Female
+1,1,1,0,1,1,0,1,1,0,0,0,0,1,1,Asthma,Mild,49,Female
+1,0,0,1,1,1,0,0,1,0,0,0,0,1,0,Tuberculosis,Moderate,36,Female
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Asthma,Severe,20,Female
+1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,Hypertension,Severe,55,Male
+0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,Pneumonia,Mild,45,Female
+0,0,0,1,0,1,1,1,0,0,1,0,0,1,0,Tuberculosis,Moderate,78,Female
+0,1,1,1,0,1,0,0,0,1,1,1,0,1,1,Diabetes,Severe,55,Female
+0,1,1,0,1,0,0,1,0,1,1,1,0,0,0,Hypertension,Severe,71,Female
+0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,Common Cold,Mild,23,Female
+1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Tuberculosis,Mild,73,Male
+0,1,0,1,0,0,1,1,0,1,1,0,0,1,1,Bronchitis,Moderate,57,Female
+0,1,0,1,0,1,0,1,1,0,1,1,1,1,1,Diabetes,Moderate,74,Female
+0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,Asthma,Mild,34,Male
+1,0,0,0,1,0,0,1,1,0,0,1,1,0,0,Flu,Moderate,59,Female
+0,0,0,0,0,0,0,1,1,1,1,0,1,1,0,Pneumonia,Mild,73,Male
+0,1,1,1,1,0,0,0,0,1,0,1,0,1,1,Asthma,Severe,22,Female
+0,1,0,0,0,1,1,0,1,1,0,0,1,0,1,Pneumonia,Mild,36,Male
+0,0,1,1,0,1,0,1,1,0,1,1,0,0,0,Heart Disease,Mild,60,Male
+1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,Hypertension,Mild,59,Male
+1,1,0,1,0,0,1,1,1,0,1,1,0,1,0,Asthma,Severe,52,Female
+0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,Diabetes,Moderate,39,Female
+1,1,0,1,0,0,1,0,1,0,0,0,0,0,1,Bronchitis,Moderate,41,Male
+1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Flu,Moderate,27,Male
+1,0,1,1,1,1,1,0,0,0,0,1,1,0,0,Tuberculosis,Mild,19,Male
+0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,COVID-19,Mild,45,Male
+0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,Hypertension,Moderate,58,Male
+0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,COVID-19,Severe,54,Male
+1,0,1,1,0,1,0,0,0,0,0,0,0,1,0,Diabetes,Severe,70,Male
+0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,Heart Disease,Severe,34,Male
+0,0,0,1,1,1,0,0,1,1,1,1,1,0,1,Tuberculosis,Severe,23,Male
+0,1,0,1,0,0,0,1,0,1,1,1,0,0,1,Tuberculosis,Mild,78,Male
+1,0,1,0,0,1,0,0,1,1,1,0,0,0,1,Tuberculosis,Moderate,60,Female
+0,1,1,0,0,0,0,0,1,0,1,1,1,0,0,Pneumonia,Severe,76,Male
+1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,Flu,Mild,22,Female
+1,0,1,0,1,0,1,0,0,0,0,1,0,1,1,Asthma,Mild,56,Male
+0,1,1,0,0,0,1,0,1,0,0,0,0,1,0,Flu,Mild,24,Female
+1,0,0,0,0,1,1,0,1,0,0,1,0,1,0,Asthma,Moderate,49,Male
+0,1,0,1,1,1,1,1,1,0,1,0,0,1,1,Hypertension,Mild,21,Female
+1,1,0,1,0,0,0,1,0,0,0,0,0,1,1,Pneumonia,Moderate,38,Male
+0,0,1,0,1,1,1,1,1,1,1,0,0,0,0,Flu,Moderate,59,Male
+1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,Pneumonia,Moderate,79,Male
+1,0,1,0,0,1,1,0,0,0,1,0,0,0,1,Bronchitis,Moderate,49,Female
+1,0,0,1,1,0,0,0,1,0,1,0,0,0,1,Hypertension,Mild,73,Male
+1,1,1,1,0,0,1,1,0,0,0,0,0,0,1,Flu,Mild,35,Male
+0,1,0,0,0,0,1,1,1,0,1,1,0,1,0,Pneumonia,Mild,50,Male
+1,1,0,0,0,1,1,0,0,0,0,0,1,1,0,Diabetes,Severe,31,Female
+1,1,1,1,0,0,1,0,1,1,0,0,0,1,0,Common Cold,Severe,23,Female
+0,0,1,1,1,0,1,1,0,0,1,0,0,1,1,Asthma,Moderate,28,Male
+0,1,1,0,1,0,1,1,0,0,0,1,0,0,1,Tuberculosis,Moderate,63,Male
+1,1,0,1,1,0,0,1,1,1,1,1,0,1,0,Common Cold,Moderate,37,Female
+1,1,1,0,1,1,0,1,0,1,1,0,0,1,0,COVID-19,Moderate,46,Female
+1,1,0,0,0,1,0,1,0,1,1,1,0,1,1,Pneumonia,Moderate,75,Male
+0,0,0,1,0,1,0,0,1,1,0,0,0,0,1,COVID-19,Severe,52,Male
+1,1,0,1,0,1,0,1,0,0,1,1,0,0,1,Bronchitis,Moderate,33,Male
+0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,Diabetes,Mild,65,Female
+1,0,0,1,0,0,0,1,0,1,1,0,1,0,1,Asthma,Moderate,24,Female
+0,0,1,0,1,0,1,0,0,1,0,0,1,1,1,Bronchitis,Mild,57,Male
+1,1,0,1,0,0,1,0,1,0,1,0,1,0,0,Heart Disease,Mild,76,Female
+1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,Hypertension,Mild,77,Female
+0,1,0,1,0,1,0,0,0,1,0,1,0,0,0,Bronchitis,Mild,53,Male
+1,1,0,1,1,0,0,1,0,0,0,1,1,1,1,Common Cold,Moderate,61,Male
+0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,Asthma,Moderate,61,Male
+1,1,1,1,1,0,1,0,0,0,1,0,0,1,0,Common Cold,Moderate,48,Female
+1,0,1,1,0,0,0,1,0,1,0,0,0,0,1,Asthma,Moderate,59,Female
+0,0,1,1,1,0,0,0,0,1,0,0,0,1,0,Tuberculosis,Moderate,61,Male
+1,0,1,0,0,0,1,0,0,0,0,1,1,1,1,Flu,Severe,60,Female
+1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,Asthma,Mild,60,Female
+0,1,0,1,0,0,0,1,0,0,0,1,0,1,1,Common Cold,Mild,64,Female
+0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,COVID-19,Severe,23,Female
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Bronchitis,Severe,46,Male
+1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Bronchitis,Moderate,44,Female
+1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,Asthma,Moderate,60,Male
+1,1,0,0,1,1,0,0,0,1,0,0,0,0,1,Heart Disease,Mild,19,Female
+0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,Asthma,Moderate,73,Male
+1,0,0,1,0,1,0,0,1,0,0,0,0,1,1,Pneumonia,Mild,39,Female
+0,0,0,0,0,1,1,0,0,0,1,0,0,1,0,COVID-19,Moderate,76,Male
+0,1,0,1,0,1,1,0,1,1,0,1,1,0,1,Tuberculosis,Moderate,26,Male
+0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,Tuberculosis,Mild,28,Female
+0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,Common Cold,Severe,33,Female
+0,1,1,0,1,1,1,0,1,0,1,0,0,0,1,Diabetes,Severe,62,Male
+0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,Flu,Moderate,30,Female
+1,0,0,1,1,1,1,0,1,1,0,1,0,0,1,Common Cold,Severe,71,Male
+0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,Pneumonia,Moderate,71,Male
+0,1,0,1,1,0,0,1,0,1,0,0,0,0,1,Diabetes,Severe,77,Male
+0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,Flu,Severe,35,Male
+0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,Bronchitis,Mild,70,Female
+0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,Common Cold,Severe,42,Female
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Tuberculosis,Moderate,50,Female
+1,0,1,0,1,0,1,1,1,1,0,1,0,0,0,Diabetes,Mild,69,Female
+1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,Diabetes,Severe,27,Female
+1,0,0,0,0,0,0,1,1,0,0,1,1,1,1,COVID-19,Mild,75,Male
+0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,Asthma,Severe,47,Female
+0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,Pneumonia,Moderate,68,Female
+1,1,0,0,1,1,0,0,1,0,1,1,1,0,0,Flu,Moderate,66,Female
